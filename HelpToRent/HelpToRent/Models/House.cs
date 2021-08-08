@@ -13,6 +13,8 @@ namespace HelpToRent.Models
         public int Bills { get; set; }//Should be a class? are they in the rent or not, some of them?, gas, internet, electricity
         public float Deposit { get; set; }
         public int ContractPeriod { get; set; }
+        public String ContactName { get; set; }
+
 
     }
 }

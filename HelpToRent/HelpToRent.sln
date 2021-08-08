@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpToRent", "HelpToRent\HelpToRent.csproj", "{9BE28D7F-3156-4E2F-8128-A7C0A93C39AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE28D7F-3156-4E2F-8128-A7C0A93C39AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE28D7F-3156-4E2F-8128-A7C0A93C39AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE28D7F-3156-4E2F-8128-A7C0A93C39AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE28D7F-3156-4E2F-8128-A7C0A93C39AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E8C439-33A2-41BF-BF42-8668AD9B6B50}
+	EndGlobalSection
+EndGlobal

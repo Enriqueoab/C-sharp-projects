@@ -259,3 +259,4 @@ C:\Users\34634\Desktop\C# project\HelpToRent\HelpToRent\obj\Debug\netcoreapp3.1\
 C:\Users\34634\Desktop\C# project\HelpToRent\HelpToRent\obj\Debug\netcoreapp3.1\Razor\Views\Houses\Details.cshtml.g.cs
 C:\Users\34634\Desktop\C# project\HelpToRent\HelpToRent\obj\Debug\netcoreapp3.1\Razor\Views\Houses\Edit.cshtml.g.cs
 C:\Users\34634\Desktop\C# project\HelpToRent\HelpToRent\obj\Debug\netcoreapp3.1\Razor\Views\Houses\Index.cshtml.g.cs
+C:\Users\34634\Desktop\C# project\HelpToRent\HelpToRent\obj\Debug\netcoreapp3.1\Razor\Views\Houses\SearchForm.cshtml.g.cs

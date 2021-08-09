@@ -25,6 +25,12 @@ namespace HelpToRent.Controllers
             return View(await _context.House.ToListAsync());
         }
 
+        // GET: Houses/Search
+        public async Task<IActionResult> SearchForm()
+        {
+            return View();//No need the name because is already in the name
+        }
+
         // GET: Houses/Details/5
         public async Task<IActionResult> Details(int? id)
         {

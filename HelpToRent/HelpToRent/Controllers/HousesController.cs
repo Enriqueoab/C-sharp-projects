@@ -31,6 +31,15 @@ namespace HelpToRent.Controllers
             return View();//No need the name because is already in the name
         }
 
+        // POST: Houses/SearchForm
+        public async Task<IActionResult> ShowSearchValues(String Direction)
+        {
+            //The view we are looking for (Index)
+            //And the data that come whith it, whith the proper filter
+
+            return View("Index", await _context.House.Where(h => h.Direction.Contains(Direction)).ToListAsync());
+        }
+
         // GET: Houses/Details/5
         public async Task<IActionResult> Details(int? id)
         {

@@ -2,8 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\HelpToRent",
+    "\\HelpToRent\\Areas\\Identity",
+    "\\HelpToRent\\Areas\\Identity\\Pages",
+    "\\HelpToRent\\bin",
+    "\\HelpToRent\\bin\\Release\\netcoreapp3.1",
+    "\\HelpToRent\\Controllers",
+    "\\HelpToRent\\Data",
     "\\HelpToRent\\Models"
   ],
-  "SelectedNode": "\\HelpToRent\\Models\\House.cs",
+  "SelectedNode": "\\HelpToRent\\Models",
   "PreviewInSolutionExplorer": false
 }

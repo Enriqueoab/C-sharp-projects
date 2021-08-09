@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using HelpToRent.Models;
 
 namespace HelpToRent.Data
 {
@@ -12,5 +13,6 @@ namespace HelpToRent.Data
             : base(options)
         {
         }
+        public DbSet<HelpToRent.Models.House> House { get; set; }
     }
 }

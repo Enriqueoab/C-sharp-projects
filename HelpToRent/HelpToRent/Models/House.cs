@@ -14,7 +14,10 @@ namespace HelpToRent.Models
         public float Deposit { get; set; }
         public int ContractPeriod { get; set; }
         public String ContactName { get; set; }
+        public House ()
+	{
 
+	}
 
     }
 }

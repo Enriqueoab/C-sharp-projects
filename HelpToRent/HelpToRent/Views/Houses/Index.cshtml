@@ -13,16 +13,16 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Direction)
+                @Html.DisplayNameFor(model => model.Directions)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Price)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Bills)
+                @Html.DisplayNameFor(model => model.Bill)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Deposit)
+                @Html.DisplayNameFor(model => model.Availability)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.ContractPeriod)
@@ -37,16 +37,16 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Direction)
+                @Html.DisplayFor(modelItem => item.Directions)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Bills)
+                @Html.DisplayFor(modelItem => item.Bill)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Deposit)
+                @Html.DisplayFor(modelItem => item.Availability)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.ContractPeriod)

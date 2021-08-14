@@ -4,16 +4,14 @@ using HelpToRent.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace HelpToRent.Data.Migrations
+namespace HelpToRent.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210814135535_1.2")]
-    partial class _12
+    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -39,6 +37,27 @@ namespace HelpToRent.Data.Migrations
                     b.ToTable("Bill");
                 });
 
+            modelBuilder.Entity("HelpToRent.Models.Direction", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Street")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Town")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Direction");
+                });
+
             modelBuilder.Entity("HelpToRent.Models.House", b =>
                 {
                     b.Property<int>("Id")
@@ -46,7 +65,10 @@ namespace HelpToRent.Data.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int?>("BillsId")
+                    b.Property<string>("Availability")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("BillId")
                         .HasColumnType("int");
 
                     b.Property<string>("ContactName")
@@ -55,18 +77,20 @@ namespace HelpToRent.Data.Migrations
                     b.Property<int>("ContractPeriod")
                         .HasColumnType("int");
 
-                    b.Property<float>("Deposit")
-                        .HasColumnType("real");
+                    b.Property<int?>("DirectionsId")
+                        .HasColumnType("int");
 
-                    b.Property<string>("Direction")
+                    b.Property<string>("Price")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<float>("Price")
-                        .HasColumnType("real");
+                    b.Property<string>("Url")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("BillsId");
+                    b.HasIndex("BillId");
+
+                    b.HasIndex("DirectionsId");
 
                     b.ToTable("House");
                 });
@@ -273,9 +297,13 @@ namespace HelpToRent.Data.Migrations
 
             modelBuilder.Entity("HelpToRent.Models.House", b =>
                 {
-                    b.HasOne("HelpToRent.Models.Bill", "Bills")
+                    b.HasOne("HelpToRent.Models.Bill", "Bill")
                         .WithMany()
-                        .HasForeignKey("BillsId");
+                        .HasForeignKey("BillId");
+
+                    b.HasOne("HelpToRent.Models.Direction", "Directions")
+                        .WithMany()
+                        .HasForeignKey("DirectionsId");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

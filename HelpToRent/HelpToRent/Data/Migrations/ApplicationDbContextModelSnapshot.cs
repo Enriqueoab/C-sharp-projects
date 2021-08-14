@@ -19,6 +19,24 @@ namespace HelpToRent.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("HelpToRent.Models.Bill", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<bool>("AllBillsIncluded")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("BillComment")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Bill");
+                });
+
             modelBuilder.Entity("HelpToRent.Models.House", b =>
                 {
                     b.Property<int>("Id")
@@ -26,7 +44,7 @@ namespace HelpToRent.Data.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("Bills")
+                    b.Property<int?>("BillsId")
                         .HasColumnType("int");
 
                     b.Property<string>("ContactName")
@@ -45,6 +63,8 @@ namespace HelpToRent.Data.Migrations
                         .HasColumnType("real");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("BillsId");
 
                     b.ToTable("House");
                 });
@@ -247,6 +267,13 @@ namespace HelpToRent.Data.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens");
+                });
+
+            modelBuilder.Entity("HelpToRent.Models.House", b =>
+                {
+                    b.HasOne("HelpToRent.Models.Bill", "Bills")
+                        .WithMany()
+                        .HasForeignKey("BillsId");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

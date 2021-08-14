@@ -9,12 +9,17 @@ namespace HelpToRent.Models
 
     {
         public int Id { get; set; }
-        public String Direction { get; set; }
-        public float Price { get; set; }
+        public String Url { get; set; }
 
-        public Bill Bills { get => Bills; private set => Bills = value; }
+        public Direction Directions { get => Directions; set => Directions = value; }
 
-        public float Deposit { get; set; }
+
+
+        public String Price { get; set; }
+        public Bill Bill { get => Bill; set => Bill = value; }
+
+
+        public String Availability { get; set; }
         public int ContractPeriod { get; set; }
         public String ContactName { get; set; }
 
@@ -23,13 +28,14 @@ namespace HelpToRent.Models
 
 	}
 
-        public House(int id, string direction, float price, Bill bills, float deposit, int contractPeriod, string contactName)
+        public House(int id, string url, Direction directions, string price, Bill bill, string availability, int contractPeriod, string contactName)
         {
             Id = id;
-            Direction = direction;
+            Url = url;
+            Directions = directions;
             Price = price;
-            Bills = bills;
-            Deposit = deposit;
+            Bill = bill;
+            Availability = availability;
             ContractPeriod = contractPeriod;
             ContactName = contactName;
         }

@@ -8,6 +8,14 @@
   <ItemGroup>
     <Compile Remove="Data\Migrations\20210814135213_1.2.cs" />
     <Compile Remove="Data\Migrations\20210814135213_1.2.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210814181529_migration3.cs" />
+    <Compile Remove="Data\Migrations\20210814181529_migration3.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210814182904_migration3.cs" />
+    <Compile Remove="Data\Migrations\20210814182904_migration3.Designer.cs" />
+    <Compile Remove="Migrations\20210814181919_migration3.cs" />
+    <Compile Remove="Migrations\20210814181919_migration3.Designer.cs" />
+    <Compile Remove="Migrations\20210814182133_migration3.cs" />
+    <Compile Remove="Migrations\20210814182133_migration3.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

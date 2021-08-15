@@ -234,31 +234,31 @@ googletag.placement = googletag.placement || [];
 <option value="3917">Adamstown (8)</option>
 <option value="4306">Arbour Hill (7)</option>
 <option value="3675">Ard Na Greine (1)</option>
-<option value="176">Artane (16)</option>
-<option value="177">Ashtown (8)</option>
+<option value="176">Artane (17)</option>
+<option value="177">Ashtown (9)</option>
 <option value="3886">Aylesbury (1)</option>
 <option value="2827">Balbriggan (10)</option>
 <option value="3645">Baldoyle (5)</option>
 <option value="178">Balgriffin (5)</option>
 <option value="4040">Ballinascorney (1)</option>
 <option value="179">Ballinteer (11)</option>
-<option value="180">Ballsbridge (14)</option>
+<option value="180">Ballsbridge (13)</option>
 <option value="181">Ballyboden (2)</option>
 <option value="3687">Ballybough (3)</option>
 <option value="182">Ballybrack (3)</option>
-<option value="3703">Ballycullen (5)</option>
-<option value="184">Ballyfermot (5)</option>
+<option value="3703">Ballycullen (6)</option>
+<option value="184">Ballyfermot (6)</option>
 <option value="3808">Ballymount (1)</option>
 <option value="186">Ballymun (19)</option>
 <option value="187">Beaumont (14)</option>
 <option value="4371">Belmayne (3)</option>
-<option value="188">Blackrock (12)</option>
+<option value="188">Blackrock (13)</option>
 <option value="189">Blanchardstown (21)</option>
 <option value="190">Bluebell (2)</option>
-<option value="191">Booterstown (2)</option>
-<option value="4349">Bray (3)</option>
+<option value="191">Booterstown (3)</option>
+<option value="4349">Bray (4)</option>
 <option value="2445">Brittas (1)</option>
-<option value="194">Cabinteely (6)</option>
+<option value="194">Cabinteely (7)</option>
 <option value="195">Cabra (13)</option>
 <option value="196">Carpenterstown (3)</option>
 <option value="197">Carrickmines (1)</option>
@@ -266,36 +266,37 @@ googletag.placement = googletag.placement || [];
 <option value="200">Chapelizod (5)</option>
 <option value="3647">Christchurch (2)</option>
 <option value="201">Churchtown (8)</option>
-<option value="3657">Citywest (21)</option>
+<option value="3657">Citywest (22)</option>
 <option value="3663">Clarehall (5)</option>
+<option value="3792">Cloghran (1)</option>
 <option value="202">Clondalkin (21)</option>
 <option value="3674">Clonee (6)</option>
-<option value="3975">Clongriffin (6)</option>
+<option value="3975">Clongriffin (9)</option>
 <option value="3679">Clonshaugh (4)</option>
-<option value="204">Clonsilla (15)</option>
-<option value="205">Clonskeagh (3)</option>
+<option value="204">Clonsilla (16)</option>
+<option value="205">Clonskeagh (4)</option>
 <option value="206">Clontarf (11)</option>
-<option value="3660">Collinswood (2)</option>
-<option value="3700">Coolmine (1)</option>
+<option value="3660">Collinswood (1)</option>
+<option value="3700">Coolmine (2)</option>
 <option value="208">Coolock (4)</option>
-<option value="211">Crumlin (14)</option>
+<option value="211">Crumlin (13)</option>
 <option value="3661">Dartry (4)</option>
 <option value="214">Deansgrange (2)</option>
-<option value="215">Dollymount (1)</option>
-<option value="2843">Donabate (7)</option>
+<option value="2843">Donabate (6)</option>
 <option value="217">Donaghmede (7)</option>
-<option value="218">Donnybrook (9)</option>
+<option value="218">Donnybrook (8)</option>
 <option value="219">Donnycarney (1)</option>
-<option value="220">Drimnagh (13)</option>
-<option value="221">Drumcondra (29)</option>
-<option value="298">Dublin 1 (79)</option>
-<option value="299">Dublin 2 (24)</option>
+<option value="220">Drimnagh (12)</option>
+<option value="221">Drumcondra (30)</option>
+<option value="298">Dublin 1 (84)</option>
+<option value="4370">Dublin 12 (2)</option>
+<option value="299">Dublin 2 (26)</option>
 <option value="4350">Dublin 3 (4)</option>
-<option value="3974">Dublin 4 (51)</option>
-<option value="3772">Dublin 7 (104)</option>
+<option value="3974">Dublin 4 (52)</option>
+<option value="3772">Dublin 7 (103)</option>
 <option value="3755">Dublin 8 (96)</option>
-<option value="222">Dun Laoghaire (12)</option>
-<option value="224">Dundrum (16)</option>
+<option value="222">Dun Laoghaire (13)</option>
+<option value="224">Dundrum (17)</option>
 <option value="3653">East Wall (5)</option>
 <option value="225">Edenmore (1)</option>
 <option value="3650">Fairview (2)</option>
@@ -305,16 +306,16 @@ googletag.placement = googletag.placement || [];
 <option value="231">Foxrock (1)</option>
 <option value="233">Glasnevin (25)</option>
 <option value="4111">Glenasmole (1)</option>
-<option value="236">Goatstown (7)</option>
+<option value="236">Goatstown (8)</option>
 <option value="3749">Grand Canal Dock (5)</option>
 <option value="237">Greenhills (2)</option>
-<option value="3880">Hanover Quay (2)</option>
+<option value="3880">Hanover Quay (1)</option>
 <option value="238">Harold's Cross (8)</option>
 <option value="239">Hartstown (6)</option>
-<option value="3662">Hollystown (2)</option>
+<option value="3662">Hollystown (1)</option>
 <option value="240">Howth (2)</option>
 <option value="241">Huntstown (3)</option>
-<option value="3648">IFSC (2)</option>
+<option value="3648">IFSC (3)</option>
 <option value="242">Inchicore (10)</option>
 <option value="244">Islandbridge (6)</option>
 <option value="247">Kilbarrack (3)</option>
@@ -323,7 +324,7 @@ googletag.placement = googletag.placement || [];
 <option value="248">Killester (2)</option>
 <option value="249">Killiney (4)</option>
 <option value="3659">Kilmacud (7)</option>
-<option value="250">Kilmainham (8)</option>
+<option value="250">Kilmainham (7)</option>
 <option value="251">Kilmore (1)</option>
 <option value="252">Kilnamanagh (6)</option>
 <option value="3942">Kiltipper (2)</option>
@@ -334,7 +335,7 @@ googletag.placement = googletag.placement || [];
 <option value="258">Leopardstown (8)</option>
 <option value="260">Lucan (63)</option>
 <option value="2838">Lusk (3)</option>
-<option value="261">Malahide (7)</option>
+<option value="261">Malahide (6)</option>
 <option value="262">Marino (1)</option>
 <option value="264">Milltown (4)</option>
 <option value="265">Monkstown (5)</option>
@@ -342,49 +343,49 @@ googletag.placement = googletag.placement || [];
 <option value="267">Mulhuddart (5)</option>
 <option value="3758">Navan Road (D7) (5)</option>
 <option value="2444">Newcastle (1)</option>
-<option value="3750">North Circular Road (3)</option>
+<option value="3750">North Circular Road (2)</option>
 <option value="3797">North Strand (7)</option>
 <option value="3649">North Wall (1)</option>
-<option value="3751">Ongar (6)</option>
+<option value="3751">Ongar (7)</option>
 <option value="271">Palmerstown (9)</option>
 <option value="3764">Park West (2)</option>
-<option value="3769">Perrystown (2)</option>
+<option value="3769">Perrystown (3)</option>
 <option value="272">Phibsborough (28)</option>
 <option value="273">Poppintree (1)</option>
 <option value="3973">Porterstown (2)</option>
 <option value="274">Portmarnock (3)</option>
-<option value="3651">Portobello (4)</option>
+<option value="3651">Portobello (5)</option>
 <option value="275">Raheny (8)</option>
-<option value="276">Ranelagh (21)</option>
-<option value="277">Rathcoole (4)</option>
-<option value="278">Rathfarnham (24)</option>
+<option value="276">Ranelagh (20)</option>
+<option value="277">Rathcoole (5)</option>
+<option value="278">Rathfarnham (22)</option>
 <option value="279">Rathgar (12)</option>
-<option value="281">Rathmines (18)</option>
+<option value="281">Rathmines (19)</option>
 <option value="3654">Rialto (9)</option>
-<option value="282">Ringsend (8)</option>
+<option value="282">Ringsend (9)</option>
 <option value="2837">Rush (3)</option>
-<option value="285">Saggart (5)</option>
+<option value="285">Saggart (6)</option>
 <option value="286">Sallynoggin (2)</option>
-<option value="288">Sandyford (22)</option>
+<option value="288">Sandyford (23)</option>
 <option value="4365">Sandyhill (2)</option>
 <option value="289">Sandymount (6)</option>
 <option value="290">Santry (39)</option>
 <option value="291">Shankill (3)</option>
-<option value="3655">Smithfield (9)</option>
+<option value="3655">Smithfield (10)</option>
 <option value="3695">South Circular Road (1)</option>
 <option value="2840">St Margaret's (3)</option>
-<option value="292">Stepaside (8)</option>
+<option value="292">Stepaside (10)</option>
 <option value="293">Stillorgan (13)</option>
 <option value="3652">Stoneybatter (5)</option>
 <option value="294">Sutton (4)</option>
-<option value="295">Swords (33)</option>
-<option value="296">Tallaght (25)</option>
-<option value="297">Temple Bar (5)</option>
+<option value="295">Swords (35)</option>
+<option value="296">Tallaght (24)</option>
+<option value="297">Temple Bar (6)</option>
 <option value="300">Templeogue (8)</option>
-<option value="301">Terenure (15)</option>
+<option value="301">Terenure (17)</option>
 <option value="3689">Tyrrelstown (4)</option>
 <option value="302">Walkinstown (16)</option>
-<option value="303">Whitehall (15)</option>
+<option value="303">Whitehall (16)</option>
 <option value="305">Windy Arbour (3)</option>
                         </select><br />
 
@@ -453,92 +454,46 @@ googletag.placement = googletag.placement || [];
                 <ul>
                     <li>
                         <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/7-Oak-Park-Drive-Santry-Dublin-9/6000249/">
-                                Santry                            </a>
+                            <a href="https://www.rent.ie/rooms-to-rent/North-Bank-Apartments-Dublin-1/6018616/">
+                                Dublin 1                            </a>
                         </div>
                         <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/7-Oak-Park-Drive-Santry-Dublin-9/6000249/">
-                                <img src="https://b.dmlimg.com/YWM4NTQ5YjM1Mjc1ODljZmJkZjcwMmJiMDY4ZTc3M2SM8wI3V4NNXLfiQ1Km2dGTaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNi8xLzYxOTgyNjc2MjY4ZWI1MTAyNzAyNGJmNmNjODliMTZkLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                            <a href="https://www.rent.ie/rooms-to-rent/North-Bank-Apartments-Dublin-1/6018616/">
+                                <img src="https://b.dmlimg.com/YTgwNTAyYjU2Y2Y3ZGYzMTc5ZjVkOGY5NDVkYTVmYTlktflywWx9i0LhI8w8XaScaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYi9jL2JjNGQxYzFmNGZjMTI4OGRhNTRmNjk5ZWM2Mjg1ODlhLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
                                     id="prop_0"
-                                    alt="7 Oak Park Drive, Santry, Dublin 9"
-                                    title="7 Oak Park Drive, Santry, Dublin 9"
+                                    alt="North Bank Apartments, Dublin 1"
+                                    title="North Bank Apartments, Dublin 1"
                                     width="160" height="121" />
                             </a>
                         </div>
                         <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/7-Oak-Park-Drive-Santry-Dublin-9/6000249/">
+                            <a href="https://www.rent.ie/rooms-to-rent/North-Bank-Apartments-Dublin-1/6018616/">
                                 <span class="beds">1 Bed</span>
                             <span class="rent">
-                                <strong>&euro;520</strong>
+                                <strong>&euro;950</strong>
         p/m                            </span>
                                     </a>
                         </div>
                     </li>
                         <li>
                         <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/7-Ballymount-Cottages-Turnpike-Road-Ballymount-Dublin-12/5983057/">
-                                Ballymount                            </a>
+                            <a href="https://www.rent.ie/rooms-to-rent/Barnwell-Woods-Ongar-Dublin-15/6015721/">
+                                Ongar                            </a>
                         </div>
                         <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/7-Ballymount-Cottages-Turnpike-Road-Ballymount-Dublin-12/5983057/">
-                                <img src="https://b.dmlimg.com/OWFkYmQxNzcyNGJiYmQ2Y2IyNGNmMGRkNDYwYmJjZjUJQDiewRZto2p5km4blR6SaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOC81Lzg1ODczNGMxOTUzYjkyMmI2ZGE2MGU3N2NlZWFjOWU1LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                            <a href="https://www.rent.ie/rooms-to-rent/Barnwell-Woods-Ongar-Dublin-15/6015721/">
+                                <img src="https://b.dmlimg.com/YWJlZTg2ZjE2Y2UxZTEwZWVhY2JhMTA3Y2RjYzdkNmI9exgNQSrdz1y_bOmCrJ6LaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi80L2Y0YmNjMGUxOWI4ZTY5YjAwZjI3MTBhYzE5MWE0MjM1LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
                                     id="prop_1"
-                                    alt="7 Ballymount Cottages Turnpike Road, Ballymount, Dublin 12"
-                                    title="7 Ballymount Cottages Turnpike Road, Ballymount, Dublin 12"
+                                    alt="Barnwell Woods, Ongar, Dublin 15"
+                                    title="Barnwell Woods, Ongar, Dublin 15"
                                     width="160" height="121" />
                             </a>
                         </div>
                         <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/7-Ballymount-Cottages-Turnpike-Road-Ballymount-Dublin-12/5983057/">
+                            <a href="https://www.rent.ie/rooms-to-rent/Barnwell-Woods-Ongar-Dublin-15/6015721/">
                                 <span class="beds">1 Bed</span>
                             <span class="rent">
-                                <strong>&euro;676</strong>
-        p/m                            </span>
-                                    </a>
-                        </div>
-                    </li>
-                        <li>
-                        <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/Dawson-Place-Arbour-Hill-Smithfield-Dublin-7/5989141/">
-                                Smithfield                            </a>
-                        </div>
-                        <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/Dawson-Place-Arbour-Hill-Smithfield-Dublin-7/5989141/">
-                                <img src="https://b.dmlimg.com/OWFkYmQxNzcyNGJiYmQ2Y2IyNGNmMGRkNDYwYmJjZjUJQDiewRZto2p5km4blR6SaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOC81Lzg1ODczNGMxOTUzYjkyMmI2ZGE2MGU3N2NlZWFjOWU1LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_2"
-                                    alt="Dawson Place, Arbour Hill, Smithfield, Dublin 7"
-                                    title="Dawson Place, Arbour Hill, Smithfield, Dublin 7"
-                                    width="160" height="121" />
-                            </a>
-                        </div>
-                        <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/Dawson-Place-Arbour-Hill-Smithfield-Dublin-7/5989141/">
-                                <span class="beds">1 Bed</span>
-                            <span class="rent">
-                                <strong>&euro;1,150</strong>
-        p/m                            </span>
-                                    </a>
-                        </div>
-                    </li>
-                        <li>
-                        <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/Ardlea-Road-Artane-Dublin-5/5983033/">
-                                Artane                            </a>
-                        </div>
-                        <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/Ardlea-Road-Artane-Dublin-5/5983033/">
-                                <img src="https://b.dmlimg.com/NDU3ZDFiYjFkMTBlNzAyYjkxOTI5NzRmODMyYjA1NmZGwuYTj-YUTMgQrx6V423zaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC84LzA4M2QxZTQ5YTcyYWNmNThkY2I4YWE1YTdmY2I2YzU1LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_3"
-                                    alt="Ardlea Road, Artane, Dublin 5"
-                                    title="Ardlea Road, Artane, Dublin 5"
-                                    width="160" height="121" />
-                            </a>
-                        </div>
-                        <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/Ardlea-Road-Artane-Dublin-5/5983033/">
-                                <span class="beds">1 Bed</span>
-                            <span class="rent">
-                                <strong>&euro;675</strong>
+                                <strong>&euro;1,050</strong>
         p/m                            </span>
                                     </a>
                         </div>
@@ -551,7 +506,7 @@ googletag.placement = googletag.placement || [];
                         <div class="prop">
                             <a href="https://www.rent.ie/rooms-to-rent/Mellowes-Quay-Usher-Street-Dublin-8-Dublin-8/6000209/">
                                 <img src="https://b.dmlimg.com/NWFiNTk0ZDhlZTQ5ODk3NWFiODg4NWJjNWRhZjZiNDf7tEATjoJxk9y_zV0wDEYDaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZC82L2Q2YmM1NDA2YTg1NjdjYzVkZjNjMTJmODVhOTJlZjgyLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_4"
+                                    id="prop_2"
                                     alt="Mellowes Quay Usher Street Dublin 8, Dublin 8"
                                     title="Mellowes Quay Usher Street Dublin 8, Dublin 8"
                                     width="160" height="121" />
@@ -568,23 +523,23 @@ googletag.placement = googletag.placement || [];
                     </li>
                         <li>
                         <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/Brackenridge-House-Brackhill-Castlemaine-Co-Kerry/5989154/">
-                                Castlemaine                            </a>
+                            <a href="https://www.rent.ie/rooms-to-rent/58-Pembroke-Cottages-Donnybrook-Dublin-4/6015055/">
+                                Donnybrook                            </a>
                         </div>
                         <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/Brackenridge-House-Brackhill-Castlemaine-Co-Kerry/5989154/">
-                                <img src="https://b.dmlimg.com/NWI2YWIzZTJhZWY1YzdlMDc2ZDgxNWNkOWRmMDlmMDLYnapaglNT6XFPq3k0B1RTaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNjg5NmE4ZjRmMjNhNjlhYWMxZmFmYjg5MDdhNWMwOTd8fHx8fHwzNDB4MjU1fHx8fA==.jpeg"
-                                    id="prop_5"
-                                    alt="Brackenridge House Brackhill, Castlemaine, Co. Kerry"
-                                    title="Brackenridge House Brackhill, Castlemaine, Co. Kerry"
+                            <a href="https://www.rent.ie/rooms-to-rent/58-Pembroke-Cottages-Donnybrook-Dublin-4/6015055/">
+                                <img src="https://b.dmlimg.com/YTQ5OTk1ZmJjZDZhZDYxOWZiMjc0YjI1MzlhZWQ4NTWMd6vTuXqtR3Ln80-XIxzbaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYi8wL2IwMjE4NmNkZTc5MGU2NTFlM2UwNTcxNmRlNzNlZmVkLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_3"
+                                    alt="58 Pembroke Cottages, Donnybrook, Dublin 4"
+                                    title="58 Pembroke Cottages, Donnybrook, Dublin 4"
                                     width="160" height="121" />
                             </a>
                         </div>
                         <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/Brackenridge-House-Brackhill-Castlemaine-Co-Kerry/5989154/">
+                            <a href="https://www.rent.ie/rooms-to-rent/58-Pembroke-Cottages-Donnybrook-Dublin-4/6015055/">
                                 <span class="beds">1 Bed</span>
                             <span class="rent">
-                                <strong>&euro;450</strong>
+                                <strong>&euro;1,320</strong>
         p/m                            </span>
                                     </a>
                         </div>
@@ -597,7 +552,7 @@ googletag.placement = googletag.placement || [];
                         <div class="prop">
                             <a href="https://www.rent.ie/rooms-to-rent/Cairnfort-Stepaside-Dublin-18/6018559/">
                                 <img src="https://b.dmlimg.com/Y2Q2YjRiZDZkNWU2NmViNGU0ZWUyYTcxZDMyYzVjNjYxcp-MKufyLyzYKdKy5mlfaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy9hLzdhYWZkOGVhY2JmNWM3ODk3NTZhMjgzODEwNDJiNzlkLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_6"
+                                    id="prop_4"
                                     alt="Cairnfort, Stepaside, Dublin 18"
                                     title="Cairnfort, Stepaside, Dublin 18"
                                     width="160" height="121" />
@@ -614,59 +569,13 @@ googletag.placement = googletag.placement || [];
                     </li>
                         <li>
                         <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/5-Station-Street-Clongriffin-Dublin-13/6004061/">
-                                Clongriffin                            </a>
-                        </div>
-                        <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/5-Station-Street-Clongriffin-Dublin-13/6004061/">
-                                <img src="https://b.dmlimg.com/ODJlNDA4YzQ2ZDE1Y2QzNWIxMjJiMjRmZTQ0NjAwNTQ1CGC69K4L9ji-wwshuYN9aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC80LzA0YjdlOGE0YmMwNTA5YzhiMThjYzYzNGY5MjUzMTJiLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_7"
-                                    alt="5, Station Street, Clongriffin, Dublin 13"
-                                    title="5, Station Street, Clongriffin, Dublin 13"
-                                    width="160" height="121" />
-                            </a>
-                        </div>
-                        <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/5-Station-Street-Clongriffin-Dublin-13/6004061/">
-                                <span class="beds">1 Bed</span>
-                            <span class="rent">
-                                <strong>&euro;400</strong>
-        p/m                            </span>
-                                    </a>
-                        </div>
-                    </li>
-                        <li>
-                        <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/19-Eglinton-Terrace-Donnybrook-Dublin-4/5993978/">
-                                Donnybrook                            </a>
-                        </div>
-                        <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/19-Eglinton-Terrace-Donnybrook-Dublin-4/5993978/">
-                                <img src="https://b.dmlimg.com/MTYwY2I5ZWMyNTYyNzU5OTVlYThhYzU5NjRjNWNjMjY2B8lt-0X3kSgj_iQYKQCDaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMS8zLzEzM2I0OTY2ZWE0YzI4MjQxOTZkYjI5YWQ0MzQ1ZmI4LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_8"
-                                    alt="19 Eglinton Terrace, Donnybrook, Dublin 4"
-                                    title="19 Eglinton Terrace, Donnybrook, Dublin 4"
-                                    width="160" height="121" />
-                            </a>
-                        </div>
-                        <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/19-Eglinton-Terrace-Donnybrook-Dublin-4/5993978/">
-                                <span class="beds">1 Bed</span>
-                            <span class="rent">
-                                <strong>&euro;1,100</strong>
-        p/m                            </span>
-                                    </a>
-                        </div>
-                    </li>
-                        <li>
-                        <div class="top">
                             <a href="https://www.rent.ie/rooms-to-rent/Coolboy-Letterkenny-Kilmacrenan-Co-Donegal/6018573/">
                                 Kilmacrenan                            </a>
                         </div>
                         <div class="prop">
                             <a href="https://www.rent.ie/rooms-to-rent/Coolboy-Letterkenny-Kilmacrenan-Co-Donegal/6018573/">
-                                <img src="https://b.dmlimg.com/YTkyNTE1MWU3OGM4ODcxYzhkNzk3NzMyN2JmNmUzYWMnv4AKRRydndb78vPJEIlbaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMy80LzM0NDUzNzU3MjY3MTMyMmU3NjNmMmZiMzA0ZTJkN2NmLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_9"
+                                <img src="https://b.dmlimg.com/ZjMyMjhjMmUzYmExNTIyNzc0YzY2M2UxYjE3NDJjZDOT-wwaFXMbNi-5Y51cB3ygaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNC9kLzRkNjMxMWJlOWM5MzY2N2M4Yzg3ZDM3YWFmNjQwZDVhLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_5"
                                     alt="Coolboy, Letterkenny, Kilmacrenan, Co. Donegal"
                                     title="Coolboy, Letterkenny, Kilmacrenan, Co. Donegal"
                                     width="160" height="121" />
@@ -683,23 +592,138 @@ googletag.placement = googletag.placement || [];
                     </li>
                         <li>
                         <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/St-Ives-Kilhedge-Lane-Lusk-North-Co-Dublin/5996977/">
-                                Lusk                            </a>
+                            <a href="https://www.rent.ie/rooms-to-rent/7-Oak-Park-Drive-Santry-Dublin-9/6000249/">
+                                Santry                            </a>
                         </div>
                         <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/St-Ives-Kilhedge-Lane-Lusk-North-Co-Dublin/5996977/">
-                                <img src="https://b.dmlimg.com/YzIzODg4ZGUxOTk5NzcxMTIzMzE5YjVlYmFiNGNkOTXj0tJtCFE4CMs3BeBOHmsjaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNi8xLzYxMTU1NjMzODA5NTQ1MzQyMjc3NzgzZGMyNDUzNWU5LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_10"
-                                    alt="St Ives, Kilhedge Lane, Lusk, North Co. Dublin"
-                                    title="St Ives, Kilhedge Lane, Lusk, North Co. Dublin"
+                            <a href="https://www.rent.ie/rooms-to-rent/7-Oak-Park-Drive-Santry-Dublin-9/6000249/">
+                                <img src="https://b.dmlimg.com/YWM4NTQ5YjM1Mjc1ODljZmJkZjcwMmJiMDY4ZTc3M2SM8wI3V4NNXLfiQ1Km2dGTaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNi8xLzYxOTgyNjc2MjY4ZWI1MTAyNzAyNGJmNmNjODliMTZkLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_6"
+                                    alt="7 Oak Park Drive, Santry, Dublin 9"
+                                    title="7 Oak Park Drive, Santry, Dublin 9"
                                     width="160" height="121" />
                             </a>
                         </div>
                         <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/St-Ives-Kilhedge-Lane-Lusk-North-Co-Dublin/5996977/">
+                            <a href="https://www.rent.ie/rooms-to-rent/7-Oak-Park-Drive-Santry-Dublin-9/6000249/">
                                 <span class="beds">1 Bed</span>
                             <span class="rent">
-                                <strong>&euro;540</strong>
+                                <strong>&euro;520</strong>
+        p/m                            </span>
+                                    </a>
+                        </div>
+                    </li>
+                        <li>
+                        <div class="top">
+                            <a href="https://www.rent.ie/rooms-to-rent/Earlsfort-Avenue-Lucan-West-Co-Dublin/6018702/">
+                                Lucan                            </a>
+                        </div>
+                        <div class="prop">
+                            <a href="https://www.rent.ie/rooms-to-rent/Earlsfort-Avenue-Lucan-West-Co-Dublin/6018702/">
+                                <img src="https://b.dmlimg.com/OGI4ZDFkMWY1MTUxODg5OWQwODNlMWNiM2JkMTI3MmI_xkYWCy4c6EZrDA5fLL89aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZC9jL2RjMDVhNzg0ZDRkMmY3Y2YyNjY0NWEwZDM0NzBmZjk4LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_7"
+                                    alt="Earlsfort Avenue, Lucan, West Co. Dublin"
+                                    title="Earlsfort Avenue, Lucan, West Co. Dublin"
+                                    width="160" height="121" />
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <a href="https://www.rent.ie/rooms-to-rent/Earlsfort-Avenue-Lucan-West-Co-Dublin/6018702/">
+                                <span class="beds">2 Bed</span>
+                            <span class="rent">
+                                <strong>&euro;0</strong>
+        p/m                            </span>
+                                    </a>
+                        </div>
+                    </li>
+                        <li>
+                        <div class="top">
+                            <a href="https://www.rent.ie/rooms-to-rent/Ballinacurra-Rd-South-Circular-Road-Limerick-City-Suburbs/6018792/">
+                                South Circular Road                            </a>
+                        </div>
+                        <div class="prop">
+                            <a href="https://www.rent.ie/rooms-to-rent/Ballinacurra-Rd-South-Circular-Road-Limerick-City-Suburbs/6018792/">
+                                <img src="https://b.dmlimg.com/YzViYWNlMGJjNDQ4NGZmMWIzMzk1Y2IwNDYzZjRmNjC895jLjPSbJAPIeWTt54csaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMS8zLzEzMmYxOGMyMzZmMGNmZmM5OWI3NzYxMjkwZTY0YjM4LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_8"
+                                    alt="Ballinacurra Rd, South Circular Road, Limerick City Suburbs"
+                                    title="Ballinacurra Rd, South Circular Road, Limerick City Suburbs"
+                                    width="160" height="121" />
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <a href="https://www.rent.ie/rooms-to-rent/Ballinacurra-Rd-South-Circular-Road-Limerick-City-Suburbs/6018792/">
+                                <span class="beds">2 Bed</span>
+                            <span class="rent">
+                                <strong>&euro;600</strong>
+        p/m                            </span>
+                                    </a>
+                        </div>
+                    </li>
+                        <li>
+                        <div class="top">
+                            <a href="https://www.rent.ie/rooms-to-rent/19-Rutledge-Terrace-Dublin-8/6018642/">
+                                Dublin 8                            </a>
+                        </div>
+                        <div class="prop">
+                            <a href="https://www.rent.ie/rooms-to-rent/19-Rutledge-Terrace-Dublin-8/6018642/">
+                                <img src="https://b.dmlimg.com/ODAzN2E5MTFlODMxN2Y2MTJmYzM0Y2NjMWM1ZGE4NGG6VEBqKJscxPv-2qNNsVHnaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYjBiZTAxMTljOThkZTFkMDZmMDYwZjdiOWJlMjMwM2Z8fHx8fHwzNDB4MjU1fHx8fA==.jpeg"
+                                    id="prop_9"
+                                    alt="19 Rutledge Terrace, Dublin 8"
+                                    title="19 Rutledge Terrace, Dublin 8"
+                                    width="160" height="121" />
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <a href="https://www.rent.ie/rooms-to-rent/19-Rutledge-Terrace-Dublin-8/6018642/">
+                                <span class="beds">1 Bed</span>
+                            <span class="rent">
+                                <strong>&euro;750</strong>
+        p/m                            </span>
+                                    </a>
+                        </div>
+                    </li>
+                        <li>
+                        <div class="top">
+                            <a href="https://www.rent.ie/rooms-to-rent/60-Iona-Villas-Drumcondra-Dublin-9/6018724/">
+                                Drumcondra                            </a>
+                        </div>
+                        <div class="prop">
+                            <a href="https://www.rent.ie/rooms-to-rent/60-Iona-Villas-Drumcondra-Dublin-9/6018724/">
+                                <img src="https://b.dmlimg.com/YzMxNzkyM2UxNjA0ZDM0YmU2YjIzM2NiOGZjYTIzN2L1CG-LlxjVT31svQ0zMZjmaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYy9lL2NlYzRmY2IzNzdhYWVmNjA5MWE0YWZhYWZlNTE0YjhlLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_10"
+                                    alt="60 Iona Villas, Drumcondra, Dublin 9"
+                                    title="60 Iona Villas, Drumcondra, Dublin 9"
+                                    width="160" height="121" />
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <a href="https://www.rent.ie/rooms-to-rent/60-Iona-Villas-Drumcondra-Dublin-9/6018724/">
+                                <span class="beds">1 Bed</span>
+                            <span class="rent">
+                                <strong>&euro;650</strong>
+        p/m                            </span>
+                                    </a>
+                        </div>
+                    </li>
+                        <li>
+                        <div class="top">
+                            <a href="https://www.rent.ie/rooms-to-rent/275-North-Circular-Road-Dublin-North-Circular-Road-Dublin-1/5831558/">
+                                North Circular Road                            </a>
+                        </div>
+                        <div class="prop">
+                            <a href="https://www.rent.ie/rooms-to-rent/275-North-Circular-Road-Dublin-North-Circular-Road-Dublin-1/5831558/">
+                                <img src="https://b.dmlimg.com/YWM0NzU3NjYxZjI2OTg2NTVlMjYyODgxNTk0YTYzNzYDm7d-_0tsiaqCPhUbjzIDaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC8xLzAxOGQ2MWRjZTM0YjUyZWE5NmZkNmQ1NGFkODM4NmVhLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_11"
+                                    alt="275 North Circular Road Dublin, North Circular Road, Dublin 1"
+                                    title="275 North Circular Road Dublin, North Circular Road, Dublin 1"
+                                    width="160" height="121" />
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <a href="https://www.rent.ie/rooms-to-rent/275-North-Circular-Road-Dublin-North-Circular-Road-Dublin-1/5831558/">
+                                <span class="beds">4 Bed</span>
+                            <span class="rent">
+                                <strong>&euro;650</strong>
         p/m                            </span>
                                     </a>
                         </div>
@@ -712,7 +736,7 @@ googletag.placement = googletag.placement || [];
                         <div class="prop">
                             <a href="https://www.rent.ie/rooms-to-rent/Apt-223-Premier-Square-Finglas-Rd-Finglas-Dublin-11/5997000/">
                                 <img src="https://b.dmlimg.com/ZTI4ODY5MGJiODZmMmY2Yjc0NzNlZjJjNTg2YmYxMmRdCD_RAgIo0enGCH6ZFIHeaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOS9lLzllNDdkNjdjMmY3Yzc2NzQ3ZTc1MTllODgzOWViZWVkLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_11"
+                                    id="prop_12"
                                     alt="Apt. 223, Premier Square, Finglas Rd, Finglas, Dublin 11"
                                     title="Apt. 223, Premier Square, Finglas Rd, Finglas, Dublin 11"
                                     width="160" height="121" />
@@ -735,7 +759,7 @@ googletag.placement = googletag.placement || [];
                         <div class="prop">
                             <a href="https://www.rent.ie/rooms-to-rent/187-Wyckham-Point-Dundrum-Dublin-16/6015688/">
                                 <img src="https://b.dmlimg.com/YmY1MDBhZTE3NGMyNTY3MzFhOGM1NDdiNTk1NzRmM2UVexDUoTvgvonfUmwZdo1faHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNS83LzU3NDlhMmRlOGM4MTU3YTU2NWNiY2YyN2I2MTZjYzFmLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_12"
+                                    id="prop_13"
                                     alt="187 Wyckham Point, Dundrum, Dublin 16"
                                     title="187 Wyckham Point, Dundrum, Dublin 16"
                                     width="160" height="121" />
@@ -752,69 +776,46 @@ googletag.placement = googletag.placement || [];
                     </li>
                         <li>
                         <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/58-Pembroke-Cottages-Donnybrook-Dublin-4/6015055/">
-                                Donnybrook                            </a>
+                            <a href="https://www.rent.ie/rooms-to-rent/41-Huntershill-Ballycullen-Ballycullen-Dublin-24/6018672/">
+                                Ballycullen                            </a>
                         </div>
                         <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/58-Pembroke-Cottages-Donnybrook-Dublin-4/6015055/">
-                                <img src="https://b.dmlimg.com/YTQ5OTk1ZmJjZDZhZDYxOWZiMjc0YjI1MzlhZWQ4NTWMd6vTuXqtR3Ln80-XIxzbaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYi8wL2IwMjE4NmNkZTc5MGU2NTFlM2UwNTcxNmRlNzNlZmVkLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_13"
-                                    alt="58 Pembroke Cottages, Donnybrook, Dublin 4"
-                                    title="58 Pembroke Cottages, Donnybrook, Dublin 4"
+                            <a href="https://www.rent.ie/rooms-to-rent/41-Huntershill-Ballycullen-Ballycullen-Dublin-24/6018672/">
+                                <img src="https://b.dmlimg.com/YmRiNWNiMTVhYTgzMTc4YTFlYWRiYmQ1N2JkOGJlZWLW0ZWsikDRCdBViLIaIiUtaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC8zLzAzODQxMWE0NzNiMDIxZjc3MTcwNzlkNTYxY2Y0MGIxLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_14"
+                                    alt="41 Huntershill Ballycullen, Ballycullen, Dublin 24"
+                                    title="41 Huntershill Ballycullen, Ballycullen, Dublin 24"
                                     width="160" height="121" />
                             </a>
                         </div>
                         <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/58-Pembroke-Cottages-Donnybrook-Dublin-4/6015055/">
+                            <a href="https://www.rent.ie/rooms-to-rent/41-Huntershill-Ballycullen-Ballycullen-Dublin-24/6018672/">
                                 <span class="beds">1 Bed</span>
                             <span class="rent">
-                                <strong>&euro;1,320</strong>
+                                <strong>&euro;750</strong>
         p/m                            </span>
                                     </a>
                         </div>
                     </li>
                         <li>
                         <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/275-North-Circular-Road-Dublin-North-Circular-Road-Dublin-1/5831558/">
-                                North Circular Road                            </a>
+                            <a href="https://www.rent.ie/rooms-to-rent/27-Carrigmore-Green-Saggart-West-Co-Dublin/5766918/">
+                                Saggart                            </a>
                         </div>
                         <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/275-North-Circular-Road-Dublin-North-Circular-Road-Dublin-1/5831558/">
-                                <img src="https://b.dmlimg.com/YWM0NzU3NjYxZjI2OTg2NTVlMjYyODgxNTk0YTYzNzYDm7d-_0tsiaqCPhUbjzIDaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC8xLzAxOGQ2MWRjZTM0YjUyZWE5NmZkNmQ1NGFkODM4NmVhLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_14"
-                                    alt="275 North Circular Road Dublin, North Circular Road, Dublin 1"
-                                    title="275 North Circular Road Dublin, North Circular Road, Dublin 1"
+                            <a href="https://www.rent.ie/rooms-to-rent/27-Carrigmore-Green-Saggart-West-Co-Dublin/5766918/">
+                                <img src="https://b.dmlimg.com/ZjNlNWU3YWRiY2U2OWE3OTM5NmZmOWViNWI2ZmU1OTlhpiZvZYprYPjjRvjPHNJGaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOS9jLzljYzk1ZTJkYjE0OTUwYjI0N2E0NzZmNTVkM2I2OWJjLmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
+                                    id="prop_15"
+                                    alt="27 Carrigmore Green, Saggart, West Co. Dublin"
+                                    title="27 Carrigmore Green, Saggart, West Co. Dublin"
                                     width="160" height="121" />
                             </a>
                         </div>
                         <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/275-North-Circular-Road-Dublin-North-Circular-Road-Dublin-1/5831558/">
-                                <span class="beds">4 Bed</span>
+                            <a href="https://www.rent.ie/rooms-to-rent/27-Carrigmore-Green-Saggart-West-Co-Dublin/5766918/">
+                                <span class="beds">1 Bed</span>
                             <span class="rent">
                                 <strong>&euro;650</strong>
-        p/m                            </span>
-                                    </a>
-                        </div>
-                    </li>
-                        <li>
-                        <div class="top">
-                            <a href="https://www.rent.ie/rooms-to-rent/Barnwell-Woods-Ongar-Dublin-15/6015721/">
-                                Ongar                            </a>
-                        </div>
-                        <div class="prop">
-                            <a href="https://www.rent.ie/rooms-to-rent/Barnwell-Woods-Ongar-Dublin-15/6015721/">
-                                <img src="https://b.dmlimg.com/YWJlZTg2ZjE2Y2UxZTEwZWVhY2JhMTA3Y2RjYzdkNmI9exgNQSrdz1y_bOmCrJ6LaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi80L2Y0YmNjMGUxOWI4ZTY5YjAwZjI3MTBhYzE5MWE0MjM1LmpwZ3x8fHx8fDM0MHgyNTV8fHx8.jpg"
-                                    id="prop_15"
-                                    alt="Barnwell Woods, Ongar, Dublin 15"
-                                    title="Barnwell Woods, Ongar, Dublin 15"
-                                    width="160" height="121" />
-                            </a>
-                        </div>
-                        <div class="bottom">
-                            <a href="https://www.rent.ie/rooms-to-rent/Barnwell-Woods-Ongar-Dublin-15/6015721/">
-                                <span class="beds">1 Bed</span>
-                            <span class="rent">
-                                <strong>&euro;1,050</strong>
         p/m                            </span>
                                     </a>
                         </div>
@@ -841,46 +842,46 @@ googletag.placement = googletag.placement || [];
                                 <td>
                                 <p>
                                     Share in
-                                    Dublin                                    (1,357)
+                                    Dublin                                    (1,384)
                                 </p>
                             </td>
                                         <td>
                                 <p>
                                     Share in
-                                    Cork                                    (217)
+                                    Cork                                    (216)
                                 </p>
                             </td>
                                         <td>
                                 <p>
                                     Share in
-                                    Galway                                    (129)
+                                    Galway                                    (131)
                                 </p>
                             </td>
                                         <td>
                                 <p>
                                     Share in
-                                    Kildare                                    (88)
+                                    Kildare                                    (91)
                                 </p>
                             </td>
                                 </tr>
                 </table>
                 <div class="lists">
                         <ul>
-                                    <li><a href="/rooms-to-rent/dublin/dublin-1/">Dublin 1</a> (71)</li>
+                                    <li><a href="/rooms-to-rent/dublin/dublin-1/">Dublin 1</a> (75)</li>
                                         <li><a href="/rooms-to-rent/dublin/lucan/">Lucan</a> (63)</li>
-                                        <li><a href="/rooms-to-rent/dublin/dublin-8/">Dublin 8</a> (55)</li>
-                                        <li><a href="/rooms-to-rent/dublin/santry/">Santry</a> (39)</li>
-                                        <li><a href="/rooms-to-rent/dublin/dublin-7/">Dublin 7</a> (36)</li>
-                                        <li><a href="/rooms-to-rent/dublin/swords/">Swords</a> (33)</li>
+                                        <li><a href="/rooms-to-rent/dublin/dublin-8/">Dublin 8</a> (56)</li>
+                                        <li><a href="/rooms-to-rent/dublin/santry/">Santry</a> (40)</li>
+                                        <li><a href="/rooms-to-rent/dublin/swords/">Swords</a> (35)</li>
+                                        <li><a href="/rooms-to-rent/dublin/dublin-7/">Dublin 7</a> (35)</li>
+                                        <li><a href="/rooms-to-rent/dublin/drumcondra/">Drumcondra</a> (30)</li>
                                         <li><a href="/rooms-to-rent/dublin/finglas/">Finglas</a> (29)</li>
-                                        <li><a href="/rooms-to-rent/dublin/drumcondra/">Drumcondra</a> (29)</li>
                                         <li class="special"><a href="/rooms-to-rent/dublin/">All Dublin House Shares</a></li>
                     </ul>
                                 <ul>
-                                    <li><a href="/rooms-to-rent/cork/cork-city/">Cork City</a> (47)</li>
+                                    <li><a href="/rooms-to-rent/cork/cork-city/">Cork City</a> (44)</li>
                                         <li><a href="/rooms-to-rent/cork/douglas/">Douglas</a> (13)</li>
+                                        <li><a href="/rooms-to-rent/cork/carrigaline/">Carrigaline</a> (10)</li>
                                         <li><a href="/rooms-to-rent/cork/ballincollig/">Ballincollig</a> (10)</li>
-                                        <li><a href="/rooms-to-rent/cork/carrigaline/">Carrigaline</a> (9)</li>
                                         <li><a href="/rooms-to-rent/cork/blackrock/">Blackrock</a> (8)</li>
                                         <li><a href="/rooms-to-rent/cork/glanmire/">Glanmire</a> (8)</li>
                                         <li><a href="/rooms-to-rent/cork/frankfield/">Frankfield</a> (6)</li>
@@ -889,23 +890,23 @@ googletag.placement = googletag.placement || [];
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/galway/galway-city/">Galway City</a> (23)</li>
+                                        <li><a href="/rooms-to-rent/galway/rahoon/">Rahoon</a> (9)</li>
                                         <li><a href="/rooms-to-rent/galway/oranmore/">Oranmore</a> (9)</li>
-                                        <li><a href="/rooms-to-rent/galway/rahoon/">Rahoon</a> (8)</li>
                                         <li><a href="/rooms-to-rent/galway/knocknacarra/">Knocknacarra</a> (7)</li>
                                         <li><a href="/rooms-to-rent/galway/renmore/">Renmore</a> (7)</li>
                                         <li><a href="/rooms-to-rent/galway/clybaun/">Clybaun</a> (6)</li>
                                         <li><a href="/rooms-to-rent/galway/headford-road/">Headford Road</a> (6)</li>
-                                        <li><a href="/rooms-to-rent/galway/newcastle/">Newcastle</a> (5)</li>
+                                        <li><a href="/rooms-to-rent/galway/ballybrit/">Ballybrit</a> (5)</li>
                                         <li class="special"><a href="/rooms-to-rent/galway/">All Galway House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/kildare/newbridge/">Newbridge</a> (19)</li>
-                                        <li><a href="/rooms-to-rent/kildare/maynooth/">Maynooth</a> (15)</li>
-                                        <li><a href="/rooms-to-rent/kildare/celbridge/">Celbridge</a> (9)</li>
+                                        <li><a href="/rooms-to-rent/kildare/maynooth/">Maynooth</a> (16)</li>
+                                        <li><a href="/rooms-to-rent/kildare/celbridge/">Celbridge</a> (10)</li>
                                         <li><a href="/rooms-to-rent/kildare/kilcock/">Kilcock</a> (7)</li>
                                         <li><a href="/rooms-to-rent/kildare/leixlip/">Leixlip</a> (6)</li>
+                                        <li><a href="/rooms-to-rent/kildare/naas/">Naas</a> (6)</li>
                                         <li><a href="/rooms-to-rent/kildare/clane/">Clane</a> (5)</li>
-                                        <li><a href="/rooms-to-rent/kildare/naas/">Naas</a> (5)</li>
                                         <li><a href="/rooms-to-rent/kildare/rathangan/">Rathangan</a> (3)</li>
                                         <li class="special"><a href="/rooms-to-rent/kildare/">All Kildare House Shares</a></li>
                     </ul>
@@ -934,7 +935,7 @@ googletag.placement = googletag.placement || [];
                                         <td>
                                 <p>
                                     Share in
-                                    Limerick                                    (46)
+                                    Limerick                                    (48)
                                 </p>
                             </td>
                                         <td>
@@ -949,12 +950,12 @@ googletag.placement = googletag.placement || [];
                         <ul>
                                     <li><a href="/rooms-to-rent/meath/navan/">Navan</a> (12)</li>
                                         <li><a href="/rooms-to-rent/meath/ashbourne/">Ashbourne</a> (8)</li>
-                                        <li><a href="/rooms-to-rent/meath/trim/">Trim</a> (6)</li>
+                                        <li><a href="/rooms-to-rent/meath/trim/">Trim</a> (7)</li>
                                         <li><a href="/rooms-to-rent/meath/dunshaughlin/">Dunshaughlin</a> (4)</li>
-                                        <li><a href="/rooms-to-rent/meath/bettystown/">Bettystown</a> (3)</li>
                                         <li><a href="/rooms-to-rent/meath/ratoath/">Ratoath</a> (3)</li>
                                         <li><a href="/rooms-to-rent/meath/dunboyne/">Dunboyne</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/meath/kells/">Kells</a> (2)</li>
+                                        <li><a href="/rooms-to-rent/meath/bettystown/">Bettystown</a> (2)</li>
+                                        <li><a href="/rooms-to-rent/meath/longwood/">Longwood</a> (2)</li>
                                         <li class="special"><a href="/rooms-to-rent/meath/">All Meath House Shares</a></li>
                     </ul>
                                 <ul>
@@ -963,8 +964,8 @@ googletag.placement = googletag.placement || [];
                                         <li><a href="/rooms-to-rent/louth/blackrock/">Blackrock</a> (6)</li>
                                         <li><a href="/rooms-to-rent/louth/ardee/">Ardee</a> (3)</li>
                                         <li><a href="/rooms-to-rent/louth/termonfeckin/">Termonfeckin</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/louth/ravensdale/">Ravensdale</a> (1)</li>
                                         <li><a href="/rooms-to-rent/louth/clogherhead/">Clogherhead</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/louth/ravensdale/">Ravensdale</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/louth/">All Louth House Shares</a></li>
                     </ul>
                                 <ul>
@@ -974,8 +975,8 @@ googletag.placement = googletag.placement || [];
                                         <li><a href="/rooms-to-rent/limerick/ennis-road/">Ennis Road</a> (4)</li>
                                         <li><a href="/rooms-to-rent/limerick/caherdavin/">Caherdavin</a> (3)</li>
                                         <li><a href="/rooms-to-rent/limerick/newcastle-west/">Newcastle West</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/limerick/corbally/">Corbally</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/limerick/clareview/">Clareview</a> (2)</li>
+                                        <li><a href="/rooms-to-rent/limerick/dooradoyle/">Dooradoyle</a> (3)</li>
+                                        <li><a href="/rooms-to-rent/limerick/corbally/">Corbally</a> (3)</li>
                                         <li class="special"><a href="/rooms-to-rent/limerick/">All Limerick House Shares</a></li>
                     </ul>
                                 <ul>
@@ -985,8 +986,8 @@ googletag.placement = googletag.placement || [];
                                         <li><a href="/rooms-to-rent/westmeath/williamstown/">Williamstown</a> (2)</li>
                                         <li><a href="/rooms-to-rent/westmeath/moate/">Moate</a> (2)</li>
                                         <li><a href="/rooms-to-rent/westmeath/tyrellspass/">Tyrellspass</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/westmeath/castlepollard/">Castlepollard</a> (1)</li>
                                         <li><a href="/rooms-to-rent/westmeath/kinnegad/">Kinnegad</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/westmeath/castlepollard/">Castlepollard</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/westmeath/">All Westmeath House Shares</a></li>
                     </ul>
             
@@ -1008,13 +1009,13 @@ googletag.placement = googletag.placement || [];
                                         <td>
                                 <p>
                                     Share in
-                                    Wicklow                                    (37)
+                                    Wicklow                                    (38)
                                 </p>
                             </td>
                                         <td>
                                 <p>
                                     Share in
-                                    Kerry                                    (26)
+                                    Kerry                                    (27)
                                 </p>
                             </td>
                                         <td>
@@ -1030,43 +1031,43 @@ googletag.placement = googletag.placement || [];
                                     <li><a href="/rooms-to-rent/carlow/carlow-town/">Carlow Town</a> (31)</li>
                                         <li><a href="/rooms-to-rent/carlow/graiguecullen/">Graiguecullen</a> (4)</li>
                                         <li><a href="/rooms-to-rent/carlow/drummin/">Drummin</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/carlow/tullow/">Tullow</a> (1)</li>
                                         <li><a href="/rooms-to-rent/carlow/palatine/">Palatine</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/carlow/leighlinbridge/">Leighlinbridge</a> (1)</li>
                                         <li><a href="/rooms-to-rent/carlow/killeshin/">Killeshin</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/carlow/leighlinbridge/">Leighlinbridge</a> (1)</li>
                                         <li><a href="/rooms-to-rent/carlow/ballybannon/">Ballybannon</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/carlow/tullow/">Tullow</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/carlow/">All Carlow House Shares</a></li>
                     </ul>
                                 <ul>
-                                    <li><a href="/rooms-to-rent/wicklow/bray/">Bray</a> (21)</li>
+                                    <li><a href="/rooms-to-rent/wicklow/bray/">Bray</a> (20)</li>
                                         <li><a href="/rooms-to-rent/wicklow/ashford/">Ashford</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/wicklow/arklow/">Arklow</a> (2)</li>
+                                        <li><a href="/rooms-to-rent/wicklow/arklow/">Arklow</a> (3)</li>
                                         <li><a href="/rooms-to-rent/wicklow/greystones/">Greystones</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/wicklow/avoca/">Avoca</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/wicklow/dunlavin/">Dunlavin</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/wicklow/brittas-bay/">Brittas Bay</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/wicklow/wicklow-town/">Wicklow Town</a> (2)</li>
+                                        <li><a href="/rooms-to-rent/wicklow/carriggower/">Carriggower</a> (1)</li>
                                         <li><a href="/rooms-to-rent/wicklow/kilcoole/">Kilcoole</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/wicklow/dunlavin/">Dunlavin</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/wicklow/">All Wicklow House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/kerry/tralee/">Tralee</a> (14)</li>
-                                        <li><a href="/rooms-to-rent/kerry/killarney/">Killarney</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/kerry/killmey/">Killmey</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/kerry/castlemaine/">Castlemaine</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/kerry/killarney/">Killarney</a> (4)</li>
                                         <li><a href="/rooms-to-rent/kerry/craiques/">Craiques</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/kerry/kilflynn/">Kilflynn</a> (1)</li>
                                         <li><a href="/rooms-to-rent/kerry/killorglin/">Killorglin</a> (1)</li>
                                         <li><a href="/rooms-to-rent/kerry/riverville/">Riverville</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/kerry/kenmare/">Kenmare</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/kerry/dingle/">Dingle</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/kerry/kilflynn/">Kilflynn</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/kerry/">All Kerry House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/waterford/waterford-city/">Waterford City</a> (17)</li>
                                         <li><a href="/rooms-to-rent/waterford/portlaw/">Portlaw</a> (2)</li>
                                         <li><a href="/rooms-to-rent/waterford/gracedieu/">Gracedieu</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/waterford/clohernagh/">Clohernagh</a> (1)</li>
                                         <li><a href="/rooms-to-rent/waterford/dunmore-east/">Dunmore East</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/waterford/ardkeen/">Ardkeen</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/waterford/clohernagh/">Clohernagh</a> (1)</li>
                                         <li><a href="/rooms-to-rent/waterford/dungarvan/">Dungarvan</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/waterford/ardkeen/">Ardkeen</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/waterford/">All Waterford House Shares</a></li>
                     </ul>
             
@@ -1082,7 +1083,7 @@ googletag.placement = googletag.placement || [];
                                 <td>
                                 <p>
                                     Share in
-                                    Wexford                                    (21)
+                                    Wexford                                    (20)
                                 </p>
                             </td>
                                         <td>
@@ -1094,13 +1095,13 @@ googletag.placement = googletag.placement || [];
                                         <td>
                                 <p>
                                     Share in
-                                    Kilkenny                                    (15)
+                                    Kilkenny                                    (16)
                                 </p>
                             </td>
                                         <td>
                                 <p>
                                     Share in
-                                    Donegal                                    (14)
+                                    Donegal                                    (15)
                                 </p>
                             </td>
                                 </tr>
@@ -1110,10 +1111,10 @@ googletag.placement = googletag.placement || [];
                                     <li><a href="/rooms-to-rent/wexford/gorey/">Gorey</a> (5)</li>
                                         <li><a href="/rooms-to-rent/wexford/wexford-town/">Wexford Town</a> (4)</li>
                                         <li><a href="/rooms-to-rent/wexford/new-ross/">New Ross</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/wexford/bunclody/">Bunclody</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/wexford/piercestown/">Piercestown</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/wexford/newtown/">Newtown</a> (1)</li>
                                         <li><a href="/rooms-to-rent/wexford/whiterock/">Whiterock</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/wexford/kiltealy/">Kiltealy</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/wexford/tullycanna/">Tullycanna</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/wexford/kilrane/">Kilrane</a> (1)</li>
                                         <li><a href="/rooms-to-rent/wexford/kilanerin/">Kilanerin</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/wexford/">All Wexford House Shares</a></li>
                     </ul>
@@ -1122,23 +1123,24 @@ googletag.placement = googletag.placement || [];
                                         <li><a href="/rooms-to-rent/tipperary/clonmel/">Clonmel</a> (4)</li>
                                         <li><a href="/rooms-to-rent/tipperary/cashel/">Cashel</a> (2)</li>
                                         <li><a href="/rooms-to-rent/tipperary/borrisoleigh/">Borrisoleigh</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/tipperary/ardfinnan/">Ardfinnan</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/tipperary/cahir/">Cahir</a> (1)</li>
                                         <li><a href="/rooms-to-rent/tipperary/nenagh/">Nenagh</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/tipperary/cahir/">Cahir</a> (1)</li>
                                         <li><a href="/rooms-to-rent/tipperary/ballina/">Ballina</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/tipperary/ardfinnan/">Ardfinnan</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/tipperary/">All Tipperary House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/kilkenny/kilkenny/">Kilkenny</a> (8)</li>
                                         <li><a href="/rooms-to-rent/kilkenny/mount-garret/">Mount Garret</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/kilkenny/piltown/">Piltown</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/kilkenny/listerlin/">Listerlin</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/kilkenny/piltown/">Piltown</a> (2)</li>
                                         <li><a href="/rooms-to-rent/kilkenny/galmoy/">Galmoy</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/kilkenny/listerlin/">Listerlin</a> (1)</li>
                                         <li><a href="/rooms-to-rent/kilkenny/waterford/">Waterford</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/kilkenny/">All Kilkenny House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/donegal/letterkenny/">Letterkenny</a> (13)</li>
+                                        <li><a href="/rooms-to-rent/donegal/kilmacrenan/">Kilmacrenan</a> (1)</li>
                                         <li><a href="/rooms-to-rent/donegal/laghy/">Laghy</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/donegal/">All Donegal House Shares</a></li>
                     </ul>
@@ -1155,7 +1157,7 @@ googletag.placement = googletag.placement || [];
                                 <td>
                                 <p>
                                     Share in
-                                    Mayo                                    (13)
+                                    Mayo                                    (14)
                                 </p>
                             </td>
                                         <td>
@@ -1180,27 +1182,27 @@ googletag.placement = googletag.placement || [];
                 </table>
                 <div class="lists">
                         <ul>
-                                    <li><a href="/rooms-to-rent/mayo/westport/">Westport</a> (4)</li>
-                                        <li><a href="/rooms-to-rent/mayo/castlebar/">Castlebar</a> (4)</li>
+                                    <li><a href="/rooms-to-rent/mayo/castlebar/">Castlebar</a> (5)</li>
+                                        <li><a href="/rooms-to-rent/mayo/westport/">Westport</a> (4)</li>
                                         <li><a href="/rooms-to-rent/mayo/ballina/">Ballina</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/mayo/breaffy/">Breaffy</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/mayo/bekan/">Bekan</a> (1)</li>
                                         <li><a href="/rooms-to-rent/mayo/newport/">Newport</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/mayo/bekan/">Bekan</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/mayo/breaffy/">Breaffy</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/mayo/">All Mayo House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/laois/portlaoise/">Portlaoise</a> (7)</li>
                                         <li><a href="/rooms-to-rent/laois/portarlington/">Portarlington</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/laois/mountmellick/">Mountmellick</a> (1)</li>
                                         <li><a href="/rooms-to-rent/laois/graiguecullen/">Graiguecullen</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/laois/mountmellick/">Mountmellick</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/laois/">All Laois House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/antrim/botanic/">Botanic</a> (5)</li>
                                         <li><a href="/rooms-to-rent/antrim/lisburn-road/">Lisburn Road</a> (3)</li>
                                         <li><a href="/rooms-to-rent/antrim/donegall-road/">Donegall Road</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/antrim/antrim-road/">Antrim Road</a> (1)</li>
                                         <li><a href="/rooms-to-rent/antrim/ormeau/">Ormeau</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/antrim/antrim-road/">Antrim Road</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/antrim/">All Antrim House Shares</a></li>
                     </ul>
                                 <ul>
@@ -1223,13 +1225,13 @@ googletag.placement = googletag.placement || [];
                                 <td>
                                 <p>
                                     Share in
-                                    Sligo                                    (8)
+                                    Clare                                    (8)
                                 </p>
                             </td>
                                         <td>
                                 <p>
                                     Share in
-                                    Clare                                    (8)
+                                    Sligo                                    (8)
                                 </p>
                             </td>
                                         <td>
@@ -1248,21 +1250,21 @@ googletag.placement = googletag.placement || [];
                 </table>
                 <div class="lists">
                         <ul>
-                                    <li><a href="/rooms-to-rent/sligo/sligo/">Sligo</a> (4)</li>
-                                        <li><a href="/rooms-to-rent/sligo/toberscanavan/">Toberscanavan</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/sligo/carraroe/">Carraroe</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/sligo/strandhill/">Strandhill</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/sligo/ballinacarrow/">Ballinacarrow</a> (1)</li>
-                                        <li class="special"><a href="/rooms-to-rent/sligo/">All Sligo House Shares</a></li>
-                    </ul>
-                                <ul>
-                                    <li><a href="/rooms-to-rent/clare/ennis/">Ennis</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/clare/shannon/">Shannon</a> (2)</li>
+                                    <li><a href="/rooms-to-rent/clare/shannon/">Shannon</a> (2)</li>
+                                        <li><a href="/rooms-to-rent/clare/ennis/">Ennis</a> (2)</li>
                                         <li><a href="/rooms-to-rent/clare/bunratty/">Bunratty</a> (1)</li>
                                         <li><a href="/rooms-to-rent/clare/doonbeg/">Doonbeg</a> (1)</li>
                                         <li><a href="/rooms-to-rent/clare/clonlara/">Clonlara</a> (1)</li>
                                         <li><a href="/rooms-to-rent/clare/cratloe/">Cratloe</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/clare/">All Clare House Shares</a></li>
+                    </ul>
+                                <ul>
+                                    <li><a href="/rooms-to-rent/sligo/sligo/">Sligo</a> (4)</li>
+                                        <li><a href="/rooms-to-rent/sligo/strandhill/">Strandhill</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/sligo/toberscanavan/">Toberscanavan</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/sligo/ballinacarrow/">Ballinacarrow</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/sligo/carraroe/">Carraroe</a> (1)</li>
+                                        <li class="special"><a href="/rooms-to-rent/sligo/">All Sligo House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/cavan/cavan/">Cavan</a> (6)</li>
@@ -1272,8 +1274,8 @@ googletag.placement = googletag.placement || [];
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/monaghan/monaghan/">Monaghan</a> (4)</li>
-                                        <li><a href="/rooms-to-rent/monaghan/castleblayney/">Castleblayney</a> (1)</li>
                                         <li><a href="/rooms-to-rent/monaghan/glaslough/">Glaslough</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/monaghan/castleblayney/">Castleblayney</a> (1)</li>
                                         <li><a href="/rooms-to-rent/monaghan/broomfield/">Broomfield</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/monaghan/">All Monaghan House Shares</a></li>
                     </ul>
@@ -1290,19 +1292,13 @@ googletag.placement = googletag.placement || [];
                                 <td>
                                 <p>
                                     Share in
-                                    Offaly                                    (4)
-                                </p>
-                            </td>
-                                        <td>
-                                <p>
-                                    Share in
-                                    Down                                    (4)
-                                </p>
-                            </td>
-                                        <td>
-                                <p>
-                                    Share in
                                     Roscommon                                    (4)
+                                </p>
+                            </td>
+                                        <td>
+                                <p>
+                                    Share in
+                                    Offaly                                    (4)
                                 </p>
                             </td>
                                         <td>
@@ -1311,31 +1307,37 @@ googletag.placement = googletag.placement || [];
                                     Leitrim                                    (4)
                                 </p>
                             </td>
+                                        <td>
+                                <p>
+                                    Share in
+                                    Down                                    (4)
+                                </p>
+                            </td>
                                 </tr>
                 </table>
                 <div class="lists">
                         <ul>
-                                    <li><a href="/rooms-to-rent/offaly/tullamore/">Tullamore</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/offaly/kilcormac/">Kilcormac</a> (1)</li>
+                                    <li><a href="/rooms-to-rent/roscommon/athlone/">Athlone</a> (2)</li>
+                                        <li><a href="/rooms-to-rent/roscommon/ballinlough/">Ballinlough</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/roscommon/rooskey/">Rooskey</a> (1)</li>
+                                        <li class="special"><a href="/rooms-to-rent/roscommon/">All Roscommon House Shares</a></li>
+                    </ul>
+                                <ul>
+                                    <li><a href="/rooms-to-rent/offaly/kilcormac/">Kilcormac</a> (1)</li>
                                         <li><a href="/rooms-to-rent/offaly/birr/">Birr</a> (1)</li>
                                         <li><a href="/rooms-to-rent/offaly/portarlington/">Portarlington</a> (1)</li>
+                                        <li><a href="/rooms-to-rent/offaly/tullamore/">Tullamore</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/offaly/">All Offaly House Shares</a></li>
-                    </ul>
-                                <ul>
-                                    <li><a href="/rooms-to-rent/down/ormeau/">Ormeau</a> (3)</li>
-                                        <li><a href="/rooms-to-rent/down/woodstock/">Woodstock</a> (1)</li>
-                                        <li class="special"><a href="/rooms-to-rent/down/">All Down House Shares</a></li>
-                    </ul>
-                                <ul>
-                                    <li><a href="/rooms-to-rent/roscommon/athlone/">Athlone</a> (2)</li>
-                                        <li><a href="/rooms-to-rent/roscommon/rooskey/">Rooskey</a> (1)</li>
-                                        <li><a href="/rooms-to-rent/roscommon/ballinlough/">Ballinlough</a> (1)</li>
-                                        <li class="special"><a href="/rooms-to-rent/roscommon/">All Roscommon House Shares</a></li>
                     </ul>
                                 <ul>
                                     <li><a href="/rooms-to-rent/leitrim/carrick-on-shannon/">Carrick-on-Shannon</a> (3)</li>
                                         <li><a href="/rooms-to-rent/leitrim/dromahair/">Dromahair</a> (1)</li>
                                         <li class="special"><a href="/rooms-to-rent/leitrim/">All Leitrim House Shares</a></li>
+                    </ul>
+                                <ul>
+                                    <li><a href="/rooms-to-rent/down/ormeau/">Ormeau</a> (3)</li>
+                                        <li><a href="/rooms-to-rent/down/woodstock/">Woodstock</a> (1)</li>
+                                        <li class="special"><a href="/rooms-to-rent/down/">All Down House Shares</a></li>
                     </ul>
             
                 </div>

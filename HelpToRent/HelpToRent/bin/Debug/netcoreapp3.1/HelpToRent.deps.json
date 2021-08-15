@@ -31,6 +31,7 @@
     ".NETCoreApp,Version=v3.1": {
       "HelpToRent/1.0.0": {
         "dependencies": {
+          "HtmlAgilityPack": "1.11.36",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.16",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.16",
           "Microsoft.AspNetCore.Identity.UI": "3.1.16",
@@ -306,6 +307,17 @@
         },
         "compile": {
           "HelpToRent.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.36": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.36.0",
+            "fileVersion": "1.11.36.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.16": {
@@ -3927,6 +3939,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dCuPhd6Mcdz0oyaSidPqZZiaKcVaBnIqCQlvgJx7Qr5PJAjSatSIVPmuOwpMjbtR8mqoXyUbWVKxuairGGauJg==",
+      "path": "htmlagilitypack/1.11.36",
+      "hashPath": "htmlagilitypack.1.11.36.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.16": {
       "type": "package",

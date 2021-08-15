@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KHGHoFYFl69v0BwhBaEF8M2y4YqHh2KTf/9Ct+qoUfnRQbZnu3AI4BqT5x/wrq2Z0XkqEiqM/KscTIi+oSypuQ==",
+  "dgSpecHash": "WRctcJKJ4oUwLv/Q3VVW0gGVA0EhUKytoc/3J38Yw6K1FKyJrvE2xmuNUq/e+9lXL+JNjHGIritc/H9tKVOvaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\34634\\Desktop\\C# project\\HelpToRent\\HelpToRent\\HelpToRent.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\34634\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512",
     "C:\\Users\\34634\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.16\\microsoft.aspnetcore.cryptography.internal.3.1.16.nupkg.sha512",
     "C:\\Users\\34634\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.16\\microsoft.aspnetcore.cryptography.keyderivation.3.1.16.nupkg.sha512",
     "C:\\Users\\34634\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.16\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.16.nupkg.sha512",

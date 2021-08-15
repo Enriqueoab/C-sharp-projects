@@ -10,36 +10,43 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create">
+        <form asp-action="ScrapingWeb">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Url" class="control-label"></label>
+                <input asp-for="Url" class="form-control" />
+                <span asp-validation-for="Url" class="text-danger"></span>
+            </div>
+
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Directions" class="control-label"></label>
-                <input asp-for="Directions" class="form-control" />
+                <input asp-for="Directions" class="form-control" disabled/>
                 <span asp-validation-for="Directions" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
+                <input asp-for="Price" class="form-control" disabled/>
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Bill" class="control-label"></label>
-                <input asp-for="Bill" class="form-control" />
+                <input asp-for="Bill" class="form-control" disabled/>
                 <span asp-validation-for="Bill" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Availability" class="control-label"></label>
-                <input asp-for="Availability" class="form-control" />
+                <input asp-for="Availability" class="form-control" disabled/>
                 <span asp-validation-for="Availability" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ContractPeriod" class="control-label"></label>
-                <input asp-for="ContractPeriod" class="form-control" />
+                <input asp-for="ContractPeriod" class="form-control" disabled/>
                 <span asp-validation-for="ContractPeriod" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ContactName" class="control-label"></label>
-                <input asp-for="ContactName" class="form-control" />
+                <input asp-for="ContactName" class="form-control" disabled/>
                 <span asp-validation-for="ContactName" class="text-danger"></span>
             </div>
             <div class="form-group">

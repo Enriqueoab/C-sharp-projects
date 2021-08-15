@@ -8,6 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using HelpToRent.Data;
 using HelpToRent.Models;
 using Microsoft.AspNetCore.Authorization;
+using System.Net;
+using System.Xml;
+using System.ComponentModel;
 
 namespace HelpToRent.Controllers
 {
@@ -59,6 +62,32 @@ namespace HelpToRent.Controllers
             return View(house);
         }
 
+        public void ScrapingWeb(String Url)
+        {
+            WebClient webClient = new WebClient();
+
+            //Event handlers to show progress and to detect that the file is downloaded
+           // webClient.DownloadFileCompleted += new AsyncCompletedEventHandler(Completed);
+          //  webClient.DownloadProgressChanged += new DownloadProgressChangedEventHandler(ProgressChanged);
+
+            //first parameter is the url of the file you want to download and the second
+            //parameter is path to local disk to which you want to save the file.
+            //To download file without blocking the main thread we use asynchronous method DownloadFileA­sync.
+            //webClient.DownloadFileAsync(new Uri(Url), @"XMLFiles/MyXml.txt");
+
+            webClient.DownloadFile(Url, @"XMLFiles/MyXml.txt");
+
+        }
+
+        private void ProgressChanged(object sender, DownloadProgressChangedEventArgs e)
+        {
+           // progressBar.Value = e.ProgressPercentage;
+        }
+
+        private void Completed(object sender, AsyncCompletedEventArgs e)
+        {
+          //  MessageBox.Show("Download completed!");
+        }
 
         // GET: Houses/Create
         [Authorize]

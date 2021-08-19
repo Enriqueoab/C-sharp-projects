@@ -77,20 +77,25 @@ namespace HelpToRent.Controllers
             //parameter is path to local disk to which you want to save the file.
             //To download file without blocking the main thread we use asynchronous method DownloadFileA­sync.
             //webClient.DownloadFileAsync(new Uri(Url), @"XMLFiles/MyXml.txt");
-          //  String xml = "XMLFiles/MyXml.txt";
+          //  String xml = "XMLFiles/xml.txt";
 
            // webClient.DownloadFile(Url, @xml);
 
-            var web = new HtmlAgilityPack.HtmlWeb();
-            HtmlDocument doc = web.Load(Url);
+            HtmlWeb web = new HtmlWeb();
+            HtmlDocument doc = web.Load("https://en.wikipedia.org/wiki/Greece");
 
-            var metascore = doc.DocumentNode.SelectNodes("[@id = 'container'] / div[11] / div / h1");
+            //var metascore = doc.DocumentNode.SelectNodes("count(//[@id = 'container'] / div[11] / div / h1)");
+            var navigator = doc.CreateNavigator();
+            var expr = navigator.Compile("//span[@class='toctext']");
+            var count = navigator.Evaluate(expr);
 
-            for (int i = 0; i <= metascore.Count; i++)//*
-            {
-                Console.Write("==========================================>>>>>"+metascore[i].InnerText);
+            Console.Write("==========================================>>>>>" + count);
 
-            }
+            /* for (int i = 0; i <= metascore.Count; i++)
+             {
+                 Console.Write("==========================================>>>>>"+metascore[i].InnerText);
+
+             }*/
         }
 
         private void ProgressChanged(object sender, DownloadProgressChangedEventArgs e)

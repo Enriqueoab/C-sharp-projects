@@ -85,17 +85,41 @@ namespace HelpToRent.Controllers
             HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             doc.OptionFixNestedTags = true;
             doc.Load(xml);
+            
 
             var direcInfo = doc.DocumentNode.SelectNodes("//*[@id=\"container\"]/div[11]/div/h1");
             var priceInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_main_box\"]/div[1]/div[2]/h2");
+            var avalaiInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_description\"]/ p[1]/text()");
+            var periodiInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_main_box\"]/div[1]/div[2]/text()[2]");
+                var contName = doc.DocumentNode.SelectNodes("//*[@id=\"smi_contactinfo_top\"]/tbody/tr[1]/td[2]");
+                var contNumber = doc.DocumentNode.SelectNodes("//*[@id=\"smi_contactinfo_top\"]/tbody/tr[2]/td[2]/text()[1]");
 
+            var billInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_description\"]/ p[1]/text()");
 
             var direction = direcInfo.Select(node => node.InnerText);
+            
+            //int houseId, string street, string town, string city
+            Direction directionObj = new Direction(1, (string)direction.ToString().Split(", ").GetValue(0),
+                                                      (string)direction.ToString().Split(", ").GetValue(1),
+                                                      (string)direction.ToString().Split(", ").GetValue(2));
             var price = priceInfo.Select(node => node.InnerText);
+            var avalaibility = avalaiInfo.Select(node => node.InnerText);
+            var contractPeriod = periodiInfo.Select(node => node.InnerText);
+                var contactName = contName.Select(node => node.InnerText);
+                var contactNumber = contNumber.Select(node => node.InnerText);
+            var bill = billInfo.Select(node => node.InnerText);
 
 
-            Console.Write("==========================================>>>>>" + direction.First());
-                Console.Write("==========================================>>>>>" + price.First());
+            Console.Write("==========================================>>>>>" + directionObj.Street);
+            Console.Write("==========================================>>>>>" + directionObj.Town);
+            Console.Write("==========================================>>>>>" + directionObj.City);
+
+            Console.Write("==========================================>>>>>" + price.First());
+            Console.Write("==========================================>>>>>" + avalaibility.First());
+            Console.Write("==========================================>>>>>" + contractPeriod.First());
+            Console.Write("==========================================>>>>>" + contactName.First());
+            Console.Write("==========================================>>>>>" + contactNumber.First());
+            Console.Write("==========================================>>>>>" + bill.First());
 
         }
 

@@ -1,0 +1,1133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/">
+    <head>
+        <script>
+            var cookieConsent = {"strictlyNecessary":true,"analytics":false,"functional":false,"advertising":false};
+            function ga() {}
+function tealiumTrackByConfig() {}
+            dataLayer = [];
+        </script>
+        <title>Sunningdale, Ballincollig, Co. Cork - Shared Accommodation and House Share in Ballincollig, Cork - Rent.ie</title>
+        <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+        <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-5JKSNS7');</script>
+        <!-- End Google Tag Manager -->
+        <script>
+            dataLayer.push({"consent_strictlyNecessary":true});
+dataLayer.push({"consent_analytics":false});
+dataLayer.push({"consent_functional":false});
+dataLayer.push({"consent_advertising":false});
+        </script>
+        <meta name="description"
+            content="Sunningdale, Ballincollig, Co. Cork, 1 double bedroom from &amp;euro;100 weekly available for 6 months on Rent.ie." />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script>var googletag = googletag || {};
+
+googletag.cmd = googletag.cmd || [];
+googletag.placement = googletag.placement || [];
+
+</script>        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/rentie.js">
+        </script>
+        <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/jquery.accordion.js">
+        </script>
+        <script type="text/javascript"
+            src="https://c1.dmstatic.com/1005/jscript/daftie/modal.js">
+        </script>
+        <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/thickbox.js">
+        </script>
+        <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/jcarousellite_1.0.1.min.js">
+        </script>
+        <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/jquery.lazyload.min.js">
+        </script>
+        <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/savedads.js">
+        </script>
+        <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/jquery.cookie.js">
+        </script>
+
+                    <script type="text/javascript"
+                src="https://c1.dmstatic.com/1005/jscript/rentie/wootric.js">
+            </script>
+                <link rel="stylesheet"
+              type="text/css"
+              href="https://c1.dmstatic.com/1005/styles/rentie/sprited/rentie_main.css"
+        />
+        <link rel='stylesheet'
+              type='text/css'
+              href='//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css' />
+        <!--[if gte IE 8]>
+            <link rel="stylesheet"
+                  type="text/css"
+                  href="https://c1.dmstatic.com/1005/styles/rentie/rentie_ie8.css" />
+        <![endif]-->
+        <!--[if lte IE 7]>
+            <link rel="stylesheet"
+                  type="text/css"
+                  href="https://c1.dmstatic.com/1005/styles/rentie/rentie_ie7.css" />
+        <![endif]-->
+        <!--[if lte IE 6]>
+            <link rel="stylesheet" type="text/css"
+                  href="https://c1.dmstatic.com/1005/styles/rentie/rentie_main.css" />
+            <link rel="stylesheet"
+                  type="text/css"
+                  href="https://c1.dmstatic.com/1005/styles/rentie/rentie_ie6.css" />
+        <![endif]-->
+        <!--[if gte IE 7]>
+            <style>
+                .smi_details_box {
+                    display:inline-block;
+                }
+            </style>
+        <![endif]-->
+        <link rel="stylesheet" type="text/css" href="https://cookie-cutter.dsch.ie/1.5.0/cookieconsent.css" />
+        
+        <link rel="stylesheet" href="https://c1.dmstatic.com/1005/osm_files/dist/leaflet.css" />
+        <script type="text/javascript" src="/osm_files/dist/leaflet.js"></script>
+        <!--[if gte IE 6]>
+            <link rel="stylesheet" type="text/css" href="https://c1.dmstatic.com/1005/osm_files/dist/leaflet.ie.css" />
+        <![endif]-->
+    </head>
+    <body class="">
+    <div id="js-cookie-consent"></div>
+    <script>
+        window.cookieConsentConfig = {
+            brand: 'rent',
+            cookieDomain: 'www.rent.ie',
+            privacyPolicy: 'https://www.rent.ie/privacy',
+            cookiePolicy: 'https://www.rent.ie/privacy/#cookies',
+            version: '1.5.0',
+        };
+    </script>
+    <script src="https://cookie-cutter.dsch.ie/1.5.0/cookieconsent.js"></script>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JKSNS7"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+        <div class="" id="">
+    <div id="container">
+        <div id="banner-container"></div>
+        <div id="header">
+                    <a href="/"><span id="rentie_logo" class="left"></span></a>
+                <div id="links">
+                    <a href="/saved-ads/">Saved Ads<span id="saved_count_container"></span></a> |
+                    <a href="/about/">About us</a>
+                </div>
+                <div id="tabs">
+                    <a href="/">
+        <span id='tab_rent'></span>                    </a>
+                    <a href="/rooms-to-rent/">
+        <span id='tab_share' class='current'></span>                    </a>
+                    <a href="/holiday-homes/">
+        <span id='tab_homes'></span>                    </a>
+                    <a href="/short-lets/">
+        <span id='tab_lets' ></span>                    </a>
+                    <a href="/parking-spaces/">
+        <span id='tab_spaces'></span>                    </a>
+                    <a href="/homeware/">
+                        <span id="tab_homeware"></span>
+                    </a>
+                </div>
+                </div>
+    <div class="modal_background
+     full black_transparent_background"
+     id="modal_background_sharewithafriend">
+</div>
+<div class="modal_container" id="modal_container_sharewithafriend">
+                <div class="pb_top">
+            <div title="Close this window" class="stf_close close_modal"></div>
+            <h2 class="stf">Share with a Friend</h2>
+        </div>
+    
+            <div class="pb_bottom">
+                    <div class="swaf-modal">
+            <div class="swaf-shortlink">
+                <label class="swaf-title">Short Link:</label>
+                <input type="text" name="shortcode" class="grey swaf-input" onclick="this.select()" readonly="readonly" value="https://www.rent.ie/35886505"/><br/>
+                <p>Share this link with your friends</p>
+            </div>
+
+            <div class="swaf-social">
+                <div class="smi-social-container">
+    <span>Share on:</span>
+    <ul>
+        <a href="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;t=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share" rel="external">
+            <li class="facebook">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-1x fa-inverse"></i>
+                </span>
+            </li>
+        </a>
+        <a href="https://twitter.com/share?via=daftmedia&amp;url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;text=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share" rel="external">
+            <li class="twitter">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-1x fa-inverse"></i>
+                </span>
+            </li>
+        </a>
+        <a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F" rel="external">
+            <li class="google-plus">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-1x fa-inverse"></i>
+                </span>
+            </li>
+        </a>
+        <a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;description=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share" rel="external">
+            <li class="pinterest">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-pinterest-p fa-1x fa-inverse"></i>
+                </span>
+            </li>
+        </a>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;title=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share&amp;mini=true" rel="external">
+            <li class="linkedin">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-1x fa-inverse"></i>
+                </span>
+            </li>
+        </a>
+    </ul>
+</div>
+
+            </div>
+        </div>
+    
+        </div>
+    </div><div class="modal_background
+     full black_transparent_background"
+     id="modal_background_report_ad">
+</div>
+<div class="modal_container" id="modal_container_report_ad">
+                <div class="pb_top">
+            <div title="Close this window" class="stf_close close_modal"></div>
+            <h2>Report this ad</h2>
+        </div>
+    
+            <div class="pb_bottom">
+            <div id="reportresponse" class="hidden">
+                <p id="reportresponse_text"></p>
+            </div>
+                    <form action="" method="post" id="report_form" onsubmit="return false;">
+            <fieldset id="reportad">
+                <input type="radio" id="incorrect_address" name="description" value="2" class="report-radio" />
+                <label for="incorrect_address">
+                    <strong>Wrong Address:</strong> Ad has wrong address
+                </label>
+                <br />
+
+                <input type="radio" id="duplicate" name="description" value="3" class="report-radio" />
+                <label for="duplicate">
+                    <strong>Duplicate:</strong> Identical to another ad on-site
+                </label>
+                <br />
+
+                <input type="radio" id="mis_classified" name="description" value="4" class="report-radio" />
+                <label for="mis_classified">
+                    <strong>Mis-Classified:</strong> Ad is in the wrong section
+                </label>
+                <br />
+
+                <input type="radio" id="inaccurate" name="description" value="5" class="report-radio" />
+                <label for="inaccurate">
+                    <strong>Inaccurate:</strong> No longer available / price changed
+                </label>
+                <br />
+
+                <input type="radio" id="photos" name="description" value="6" class="report-radio" />
+                <label for="photos">
+                    <strong>Photo Issue:</strong>
+                    Photos are inappropriate or do not belong to this property
+                </label>
+                <br />
+
+                <input type="radio" id="spam" name="description" value="7" class="report-radio" />
+                <label for="spam">
+                    <strong>Spam:</strong> Ad description is not for this property
+                </label>
+                <br />
+
+                <input type="radio" id="mapping" name="description" value="8" class="report-radio" />
+                <label for="mapping">
+                    <strong>Mapping:</strong> Property is mapped inaccurately
+                </label>
+                <br />
+
+                <input type="radio" id="scam" name="description" value="1" class="report-radio" />
+                <label for="scam">
+                    <strong>Scam:</strong> Ad looks fraudulent
+                </label>
+                <br />
+
+                <input type="radio" id="equality_guidelines" name="description" value="10" class="report-radio" />
+                <label for="equality_guidelines">
+                    <strong>Equality Guidelines:</strong> Ad contains discriminatory content
+                </label>
+                <br />
+
+                <input type="radio" id="other" name="description" value="9" class="report-radio" />
+                <label for="other">
+                    <strong>Other:</strong> Other reason, please specify
+                </label>
+                <br />
+
+                <label for="more_info" class="more-info">More Info:</label>
+                <br />
+                <textarea
+                        id="information"
+                        class="hinted"
+                        title="Please help us by providing a short description of the problem with this ad"
+                        name="information">Please help us by providing a short description of the problem with this ad.</textarea>
+                <br />
+                <br />
+                <span id="report_loading"></span>
+                <span id="report_reply" class="bluebtn">Send</span>
+            </fieldset>
+        </form>
+    
+        </div>
+    </div>
+<!-- presentation only from here on -->
+    <div id="searchreplyform_hover">
+        <div class="pb_top">
+        <div class="popup"><span><span></span></span></div>
+        <div title="Close this window" id="close_email_alert"></div>
+        <h2>Contact Advertiser</h2>
+    </div>
+    <div id="smi_contact_box_pop">
+	<span class="top"><span></span></span>
+        <div id="searchmoreinfo_sending_pop" 
+             style="display:none">
+            <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/ajax-loader-email.gif"
+                 width="66"
+                 height="66"
+                 alt="sending_reply"
+             />
+        </div>
+	<div class=" smi_contact_content smi_content_pop">
+		<strong>To:</strong> Booking Adviser in Hosting Power / hostingpower.ie<br />	<strong>Subject:</strong> available for 6 months in Sunningdale, Ballincollig, Co. Cork <br />
+	<div class="divider"></div>
+	<table>		
+		<tr>
+			<td colspan="2" id="searchmoreinfo_contact_error_pop">
+							</td>
+		</tr>
+		<tr>
+			<td class="label">Your Name: <span class='required'>*</span></td>
+			<td class="label">Message: <span class='required'>*</span></td>
+		</tr>
+		<tr>
+			<td class="smi_contact_box_row">
+				<input class='text' id="fname_pop" type='text' name='name' tabindex="120" />
+			</td>
+			<td class="smi_contact_box_message_pop" rowspan='5' valign='top' >
+				<textarea id="fcontact_textarea_pop" class="hinted" title="Type your message here..." cols='60' rows='7' name="message" tabindex="123"></textarea>
+			</td>
+		</tr>			
+		<tr>
+			<td class="smi_contact_box_row label">Email Address: <span class='required'>*</span></td>
+		</tr>
+		<tr>
+			<td class="smi_contact_box_row">
+				<input class='text' id="femail_pop" type='text' name='email' tabindex="121" />
+			</td>
+		</tr>			
+		<tr>
+			<td class="smi_contact_box_row label">Your Phone Number:</td>
+		</tr>
+		<tr>
+			<td class="smi_contact_box_row">
+				<input class='text' id="fcontact_number_pop" type='text' name='contact_number' tabindex="122" />
+				<input id="fsearch_type_pop" type='hidden' name='search_type' value='sharing' />
+				<input id="fad_id_pop" type='hidden' name='ad_id' value='5886505' />
+				<input id="fbase_url_pop" type='hidden' name='base_url' value='https://www.rent.ie/' />
+			</td>
+		</tr>
+        <tr>
+            <td colspan="2">
+                <div class="g-recaptcha" data-sitekey="6LcTtL4UAAAAAPvptS2zm3YnVmyz63ZKIRSOawJK"></div>
+                <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+            </td>
+        </tr>
+		<tr>
+			<td colspan='2'>
+				<div class="divider"></div>
+			</td>
+		</tr>
+        <tr>
+            <td colspan="4">
+
+                <h4 style="margin:0px;">Terms of Use</h4>
+                <p style="font-size:11px; margin:2px 0;">We want you to know exactly how our service works, why we need your details and how we process that information. Please state that you have read and agree with our <a href="/terms/" target="_blank">Terms of Use</a> and <a href="/privacy/" target="_blank">Privacy Policy</a> before you continue.</p>
+                <input type="checkbox" id="terms" required/>
+                <span class="required">*</span>
+                <label for="terms">I have read and agree to the Terms of Use and Privacy Policy.</label>
+
+            </td>
+        </tr>
+		<tr>
+			<td colspan='2' id="searchmoreinfo_sending_td_pop">
+									<input type='submit' id='cancel' name='cancel' alt="cancel" value="" class="email_cancel"/>
+								
+								<input type='submit' id="ajax_reply_pop" name='ajax_reply' title="" alt="reply" value="" />
+							</td>
+		</tr>
+	</table>
+	</div>
+	<span class="bottom"><span></span></span>
+</div>
+    </div>
+    <div id="friendform_hover">
+        </div>
+        <div id="navbar">
+        <span class="top"><span></span></span>
+        <div id="breadcrumbs" class="narrow_crumbs">You are here: <a href="https://www.rent.ie/">home</a> &rsaquo; <a href="https://www.rent.ie/rooms-to-rent/">rooms to rent</a> &rsaquo; <a href="/rooms-to-rent/cork/ballincollig/">search results</a> &rsaquo; <a href="https://www.rent.ie/rooms-to-rent/Sunningdale-Ballincollig-Co-Cork/5886505/" id="last_crumb">Sunningdale, Ballincollig, Co. Cork</a>        </div>
+        <div id="v_spacer"></div>
+        <span class="bottom"><span></span></span>
+    </div>
+    <div id="sresult_banner">
+    <div class="banner_container mid_banner">
+        <div id='dfp-rent_top_728x90'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                    googletag.display('dfp-rent_top_728x90');
+                });
+            </script>
+        </div>
+    </div>
+</div><div class="smi_main_top">
+    <span><span></span></span>
+    <div>
+        <h1>Sunningdale, Ballincollig, Co. Cork</h1>
+    </div>
+</div>
+
+<div id="smi_main_box">
+    <div class="smi_details_box">
+        <span class="top"><span></span></span>
+        <div class="photos">
+            <div id="main_image">
+                <span class="p1 pb_link">
+                    <img
+                        src="https://b.dmlimg.com/MzIyZTkyZDNkYjc2Y2JmZWQ2NTNiNTZhNDFjZDYwNzWtX_npVc4Rt4-dOVtIIx2DaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC81LzA1MmRjYTQ2NzdmYWI5MzFiY2YzZDQyZjU2MmU2ZWE1LmpwZ3x8fHx8fDYwMHg0NTB8fHx8.jpg"
+                        alt="Sunningdale, Ballincollig, Co. Cork"
+                        title="Sunningdale, Ballincollig, Co. Cork"
+                        width="400" height="300"
+                        />
+                </span>
+            </div>
+                <div id="additional_images" style="width:;">
+                        <span class="p2 pb_link">
+                    <img class="small_image"
+                         src="https://b.dmlimg.com/YWIzZTI3ZjMwYzFlY2EyZDZlMTY5ZTgyNGRhOGVkMzShiG2zgT6I_v7jsweVnGk7aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8zLzIzNWIyZWQ2YjQ0YzBkOTUwZmU1MDJhZGNjM2JhM2E1LmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
+                         alt="Sunningdale, Ballincollig, Co. Cork - Image 2"
+                         width="80"
+                         height="80"/>
+                </span>
+                                <span class="p3 pb_link">
+                    <img class="small_image"
+                         src="https://b.dmlimg.com/MjdkZmFmY2YyMjI4YjcyYjQzMjk0NDk5NWU3OTVjZDJ8Y-fIXcaeF3W375wWdA11aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8xLzIxOWEwYTA3MWVlYjYxYzQ5Yzk3N2VjZjdhMWIyYjA1LmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
+                         alt="Sunningdale, Ballincollig, Co. Cork - Image 3"
+                         width="80"
+                         height="80"/>
+                </span>
+                                <span class="p4 pb_link">
+                    <img class="small_image"
+                         src="https://b.dmlimg.com/MWE4YThmYTRjMGI2NmIyZjFlN2U4YmExYzY2NWRiYzA-RsJcatJkKfMOX1DDt1o6aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy81Lzc1MmMwN2U4YWYwN2Q1MjhjMWRiNzU2Mjc0YjlkNmUzLmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
+                         alt="Sunningdale, Ballincollig, Co. Cork - Image 4"
+                         width="80"
+                         height="80"/>
+                </span>
+                                <span class="p5 pb_link">
+                    <img class="small_image"
+                         src="https://b.dmlimg.com/Y2YwMzIzMmVlNjQzYzQyNDAzNzljZTBiNGQyMDcxOGa1xOHviYcaiWX4iHrhXVRzaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy9lLzdlNGJjNWVmMDlhOGUzZWY0ODY4ODE0NWMzMTVjYTU0LmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
+                         alt="Sunningdale, Ballincollig, Co. Cork - Image 5"
+                         width="80"
+                         height="80"/>
+                </span>
+                            </div>
+                    <br />
+                <span class="p1  larger_photos"
+                title="View all photos for Sunningdale, Ballincollig, Co. Cork">
+                See Larger Image &raquo;            </span>
+            </div><!-- class="photos" -->
+        <div class="text">
+<h2>&euro;100 weekly</h2>Double Bedroom  <strong>&euro;100 weekly</strong> available for 6 months            <br />
+            <div class="divider"></div>
+<div class="ber-top left">
+    <strong class="ber-title left">Rating:</strong>
+    <img class="ber-top-icon left " src="/i/ber/ber_Exempt.png">
+</div>
+<div class="ber-divider"></div>
+2 people currently occupy the house<br />Looking for <strong>either females or males</strong><br />(House is owner occupied)<br /><br />
+                <table id="smi_contactinfo_top">
+                    <tr>
+                        <td><strong>Contact:</strong></td>
+                        <td>Booking Adviser</td>
+                    </tr>
+                        <tr>
+                        <td><strong>Phone:</strong></td>
+                        <td>
+                            No phone provided                        </td>
+                    </tr>
+                </table><br/>
+
+            <p>
+                <b>Letting Agent:</b>
+    Hosting Power / hostingpower.ie                <br />
+                    <b>PSR Licence Number:</b> Exempt                <br />
+                </p>
+    <button class="rent-ie-button" id="searchreplyform_link" data-tealium="rent-click-contact-advertiser">
+        Email Advertiser
+    </button>
+    
+    
+                    <div class="divider"></div>
+
+                        <h2>Key Features</h2>
+                        <ul>
+    <li>Washing Machine</li></ul>
+<ul>
+<li>Internet</li>                        </ul>
+                    <div id="bottom_links" class="wide">
+                    <span id="stf" class="link_item">Share with a Friend
+                    </span>
+                    <span class="link_item bar">|</span>
+                    <span class="link_item">
+                            <a href="/rooms-to-rent/Sunningdale-Ballincollig-Co-Cork/5886505/print/"
+                            class="underline">Printable Page</a>
+                    </span>
+                    <span class="link_item bar">|</span>
+                    <span class="link_item smi functions_text  save  slink id_s_5886505">
+                        <span id="text_s_5886505">
+                            Save This Ad                        </span>
+                    </span>
+                    <span class="link_item bar">|</span>
+                    <span id="reportAd" class="link_item">Report This Ad</span>
+                </div>
+            </div>
+        <span class="bottom"><span></span></span>
+    </div>
+
+        <script type="text/javascript" src="https://c1.dmstatic.com/1005/jscript/daftie/json2.js"></script>
+        <script type="text/javascript" src="//cdn.maptiler.com/mapbox-gl-js/v0.53.0/mapbox-gl.js"></script>
+        <link rel='stylesheet' type='text/css' href='//cdn.maptiler.com/mapbox-gl-js/v0.53.0/mapbox-gl.css'/>
+    <!--tabset -->
+<div class="smi_tabset">
+    <ul class="smi_tabset_container">
+        <li class="smi_tab_item tab_active">
+            <a class="smi_tab" id="button_description" href="#smi_description" data-tabname="description">Description</a>
+        </li>
+        <li class="smi_tab_item">
+            <a class="smi_tab" id="button_map" href="#smi_map" data-tabname="smi_map">Map View</a>
+        </li>
+        <li class="smi_tab_item">
+            <a id="button_sview" href="https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=51.88287833662062,-8.588345397662636" target="_blank">Street View</a>
+        </li>
+        <li class="smi_tab_item">
+            <a id="button_satellite" href="https://www.google.com/maps?t=k&q=loc:51.88287833662062+-8.588345397662636" target="_blank">Satellite View</a>
+        </li>
+    </ul>
+</div>
+
+<script async="false" type="text/javascript" src="/jscript/daftie/maps/loadMaptiler.js"></script>
+<script>
+    var mapData = {
+        apiKey: '91rAQ4WIytC6QimSK1Ty',
+        containerId: 'smi_map',
+        latitude: 51.88287833662062,
+        longitude: -8.588345397662636,
+    };
+</script>
+    <div class="smi_details_box smi_details_box_main">
+        <div class="smi_details_content">
+            <div id='smi_map' class="smi_map_hidden"></div>
+                <div id="smi_description" class="description">
+<div id="searchmoreinfo_island">
+    <div id='dfp-rent_addetails_300x250'>
+        <script type='text/javascript'>
+            googletag.cmd.push(function() {
+                googletag.display('dfp-rent_addetails_300x250');
+            });
+        </script>
+    </div>
+</div>            <h2>Property Description</h2>
+            <p>
+                <strong>Available from:</strong>
+                Monday, 4 October 2021            </p>
+                <p>Hosting Power agency, providing affordable accommodation in Ireland since 2014.<br />
+<br />
+We are proud to advertise this fully furnished and comfortable private room.<br />
+The house is equipped with all modern conveniences and you share it with your welcoming host. It is also ideally located close to public transport and shops.<br />
+<br />
+All bills (electricity, gas, etc.) and WiFi are included in the rent!<br />
+All bedding will be provided too.<br />
+<br />
+HOW TO BOOK THIS ROOM?<br />
+- For the fastest way to book this room, please go to our website<br />
+- Alternatively, please reply to this ad with a detailed self description.<br />
+<br />
+Room Ref: 16308</p>
+<strong>BER Details</strong>
+<br />
+<img src="/i/ber/ber_Exempt.png">
+<br />
+<p id=''  class=''  title='' >Energy Performance Indicator: 0.00 kWh/m2/yr</p>            <p>
+                <strong>This property was entered:</strong>
+                18 days ago            </p>
+        </div>
+
+        <span class="bottom"><span></span></span>
+        </div>
+    </div>
+
+        <div class="smi_right_box" id="smi_letting_agent">
+            <span class="top"><span></span></span>
+            <div class="details">
+                    <h2>Letting Agent</h2>
+                            <p>
+                        Hosting Power / hostingpower.ie<br />Harcourt St,<br />
+Dublin 2                    </p>
+                            <div id="smi_contactinfo_bottom">
+                            <div>Contact Name:</div>
+        Booking Adviser            <br />
+                                <br />
+                        <div>PSR Licence Number:</div>
+                        Exempt                            </div>
+    No phone provided
+
+            </div>
+            <span class="bottom"><span></span></span>
+        </div>
+        <div class="smi_right_box" id="smi_seo_text" style="margin-bottom: -7px;">
+            <span class="top"><span></span></span>
+            <div class="smi_contact_content">
+                <p>
+                    You searched for Sunningdale, Ballincollig, Co. Cork and this page shows the full details of this flat share in Ballincollig. There are , which are for either males or females and the monthly rent is &euro;100 weekly. This ad was entered 2 days ago. You can see other flat shares in Ballincollig on the <a href="/rooms-to-rent/cork/ballincollig/">Rooms to Rent in Ballincollig</a> search page.                </p>
+            </div>
+            <span class="bottom"><span></span></span>
+        </div>
+        <div id="searchreplyform_fixed">
+            <div id="smi_contact_box">
+	<span class="top"><span></span></span>
+        <div id="searchmoreinfo_sending" 
+             style="display:none">
+            <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/ajax-loader-email.gif"
+                 width="66"
+                 height="66"
+                 alt="sending_reply"
+             />
+        </div>
+	<div class=" smi_contact_content smi_content">
+	<h2>Contact Letting Agent</h2>	<strong>To:</strong> Booking Adviser in Hosting Power / hostingpower.ie<br />	<strong>Subject:</strong> available for 6 months in Sunningdale, Ballincollig, Co. Cork <br />
+	<div class="divider"></div>
+	<table>		
+		<tr>
+			<td colspan="2" id="searchmoreinfo_contact_error">
+							</td>
+		</tr>
+		<tr>
+			<td class="label">Your Name: <span class='required'>*</span></td>
+			<td class="label">Message: <span class='required'>*</span></td>
+		</tr>
+		<tr>
+			<td class="smi_contact_box_row">
+				<input class='text' id="fname" type='text' name='name' tabindex="20" />
+			</td>
+			<td class="smi_contact_box_message" rowspan='5' valign='top' >
+				<textarea id="fcontact_textarea" class="hinted" title="Type your message here..." cols='60' rows='7' name="message" tabindex="23"></textarea>
+			</td>
+		</tr>			
+		<tr>
+			<td class="smi_contact_box_row label">Email Address: <span class='required'>*</span></td>
+		</tr>
+		<tr>
+			<td class="smi_contact_box_row">
+				<input class='text' id="femail" type='text' name='email' tabindex="21" />
+			</td>
+		</tr>			
+		<tr>
+			<td class="smi_contact_box_row label">Your Phone Number:</td>
+		</tr>
+		<tr>
+			<td class="smi_contact_box_row">
+				<input class='text' id="fcontact_number" type='text' name='contact_number' tabindex="22" />
+				<input id="fsearch_type" type='hidden' name='search_type' value='sharing' />
+				<input id="fad_id" type='hidden' name='ad_id' value='5886505' />
+				<input id="fbase_url" type='hidden' name='base_url' value='https://www.rent.ie/' />
+			</td>
+		</tr>
+        <tr>
+            <td colspan="2">
+                <div class="g-recaptcha" data-sitekey="6LcTtL4UAAAAAPvptS2zm3YnVmyz63ZKIRSOawJK"></div>
+                <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+            </td>
+        </tr>
+		<tr>
+			<td colspan='2'>
+				<div class="divider"></div>
+			</td>
+		</tr>
+        <tr>
+            <td colspan="4">
+
+                <h4 style="margin:0px;">Terms of Use</h4>
+                <p style="font-size:11px; margin:2px 0;">We want you to know exactly how our service works, why we need your details and how we process that information. Please state that you have read and agree with our <a href="/terms/" target="_blank">Terms of Use</a> and <a href="/privacy/" target="_blank">Privacy Policy</a> before you continue.</p>
+                <input type="checkbox" id="terms" required/>
+                <span class="required">*</span>
+                <label for="terms">I have read and agree to the Terms of Use and Privacy Policy.</label>
+
+            </td>
+        </tr>
+		<tr>
+			<td colspan='2' id="searchmoreinfo_sending_td">
+								
+								<input type='submit' id="ajax_reply" name='ajax_reply' title="" alt="reply" value="" />
+							</td>
+		</tr>
+	</table>
+	</div>
+	<span class="bottom"><span></span></span>
+</div>
+        </div>
+
+    <div id="smi_carousel_op">
+    <span class="top"><span></span></span>
+    <div id="smi_carousel_op_inner">
+        <h2>Other properties in this area</h2>
+
+        <div id="page">
+            Page <span id="page_num_op">1</span> of
+            2        </div>
+
+        <div style="clear: both;"></div>
+
+        <div id="previous_op"></div>
+        <div id="next_op"></div>
+            <div id="carousel_other_properties">
+            <ul>
+                <li class="otherproperties_carousel_item">
+                    <a href="https://www.rent.ie/rooms-to-rent/Classis-Lake-Ballincollig-Co-Cork/5886507/" class="no_line">
+                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
+                            data-original="https://b.dmlimg.com/OGYyMzU3ZDhiNGVmZGRhYmQ4OGI5N2E1NTZiOTNhMGZUI8Wh5krOEoBqNVz0upwraHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYS82L2E2NjY4M2YyMmJjYjZlZDU0NjQ2NTRiZTVmYTNlZmZhLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
+                            alt="Ballincollig, Cork"
+                            id="smi_carousel_img_1"
+                            width = "108"
+                            height = "108"
+                        />
+                    </a>
+                    <a href="https://www.rent.ie/rooms-to-rent/Classis-Lake-Ballincollig-Co-Cork/5886507/">Ballincollig, Cork</a>
+                    <br />
+                    &euro;110 Weekly                </li>
+                    <li class="otherproperties_carousel_item">
+                    <a href="https://www.rent.ie/rooms-to-rent/Wyndham-Downs-Ballincollig-Co-Cork/5756088/" class="no_line">
+                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
+                            data-original="https://b.dmlimg.com/ZjlkOWEzYTNmMzk1Y2MxYzU1NTU0MjNjMDAzYTFkNzP1PmHDxsXO4Knd8nPmT55faHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNC85LzQ5NzM5NDY4MDFlNTJhZGRiZDNjMzBkOTI4YmIzYmE1LmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
+                            alt="Ballincollig, Cork"
+                            id="smi_carousel_img_2"
+                            width = "108"
+                            height = "108"
+                        />
+                    </a>
+                    <a href="https://www.rent.ie/rooms-to-rent/Wyndham-Downs-Ballincollig-Co-Cork/5756088/">Ballincollig, Cork</a>
+                    <br />
+                    &euro;110 Weekly                </li>
+                    <li class="otherproperties_carousel_item">
+                    <a href="https://www.rent.ie/rooms-to-rent/32-The-Drive-An-Caislean-Balincollig-Ballincollig-Co-Cork/6057487/" class="no_line">
+                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
+                            data-original="https://b.dmlimg.com/YTFlZjIzYzQ0NzhlZDA4YzNkOWQ1MmZmZWJlY2NjNTG18f7X6M2yeeluqxO9T6SWaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNC81LzQ1YzkzMWY0YTQwYThhZWQxOTViOTQ2NzEyZDA0NzgwLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
+                            alt="Ballincollig, Cork"
+                            id="smi_carousel_img_3"
+                            width = "108"
+                            height = "108"
+                        />
+                    </a>
+                    <a href="https://www.rent.ie/rooms-to-rent/32-The-Drive-An-Caislean-Balincollig-Ballincollig-Co-Cork/6057487/">Ballincollig, Cork</a>
+                    <br />
+                    &euro;450 Monthly                </li>
+                    <li class="otherproperties_carousel_item">
+                    <a href="https://www.rent.ie/rooms-to-rent/Prospect-Lawn-Ballincollig-Co-Cork/5706893/" class="no_line">
+                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
+                            data-original="https://b.dmlimg.com/NGYyNjNmNWU5YjQ0ZTcyNjkwNjI2MjRjZmY5YWMzY2aP2tEgSmi1ZoqKtywwvcFIaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZC9hL2RhZjZiOTVkNDhmNDg3Y2Y2M2JjMjZjZmFiZmQ5ZWVlLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
+                            alt="Ballincollig, Cork"
+                            id="smi_carousel_img_4"
+                            width = "108"
+                            height = "108"
+                        />
+                    </a>
+                    <a href="https://www.rent.ie/rooms-to-rent/Prospect-Lawn-Ballincollig-Co-Cork/5706893/">Ballincollig, Cork</a>
+                    <br />
+                    &euro;100 Weekly                </li>
+                    <li class="otherproperties_carousel_item">
+                    <a href="https://www.rent.ie/rooms-to-rent/98-The-Cloisters-Ballincollig-Co-Cork/6007653/" class="no_line">
+                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
+                            data-original="https://b.dmlimg.com/OTcwZjk0YjRjNmRmMjliZmQ4OWE2YWMxZDM4NjQzNjVJQlcCXXfGFjjXXQydSL-aaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi9jL2ZjZDVmYjNkNDVlYmMyN2Q0NzU1OTFmNTg2NGMzOWRjLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
+                            alt="Ballincollig, Cork"
+                            id="smi_carousel_img_5"
+                            width = "108"
+                            height = "108"
+                        />
+                    </a>
+                    <a href="https://www.rent.ie/rooms-to-rent/98-The-Cloisters-Ballincollig-Co-Cork/6007653/">Ballincollig, Cork</a>
+                    <br />
+                    &euro;430 Monthly                </li>
+                    <li class="otherproperties_carousel_item">
+                    <a href="https://www.rent.ie/rooms-to-rent/Castle-Road-Ballincollig-Co-Cork/5569620/" class="no_line">
+                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
+                            data-original="https://b.dmlimg.com/MTRmMDZmMDEzZTE0YzdjZDkwYjI5YmFhMWE3ZTdjNWQ6xvqVfH_O18xOlmseIJS8aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNi83LzY3MGNlNWIxNTA2ZjZkYTBiZjlmYzExOWJjOWIwNmMyLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
+                            alt="Ballincollig, Cork"
+                            id="smi_carousel_img_6"
+                            width = "108"
+                            height = "108"
+                        />
+                    </a>
+                    <a href="https://www.rent.ie/rooms-to-rent/Castle-Road-Ballincollig-Co-Cork/5569620/">Ballincollig, Cork</a>
+                    <br />
+                    &euro;100 Weekly                </li>
+                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                </ul>
+        </div>
+
+        <script type="text/javascript">
+        <!--
+        $(document).ready(function() {
+            if($("#carousel_other_properties").length) {
+                $("#carousel_other_properties").jCarouselLite({
+                    btnPrev: "#previous_op",
+                    btnNext: "#next_op",
+                    scroll: 5,
+                    speed: 1000,
+                    visible: 5,
+                    afterEnd: function(animatingElement) {
+                        $("#carousel_other_properties img[data-original].lazy").each(function() {
+                            var orig = $(this).attr('data-original');
+                            $(this).attr('src', orig);
+                        });
+                    }
+                });
+            }
+            var curr_page_smi = 1;
+            var num_carousel = 2;
+            $('#previous_op').click(
+                function() {
+                    if (curr_page_smi == 1)
+                    {
+                        curr_page_smi = num_carousel;
+                    }
+                    else
+                    {
+                        curr_page_smi = curr_page_smi - 1;
+                    }
+                    $('#smi_carousel_op #page_num_op').html(curr_page_smi);
+                }
+            ).hover(
+                function () {
+                    $(this).addClass('over');
+                },
+                function () {
+                    $(this).removeClass('over');
+                }
+            );
+            $('#next_op').click(
+                function() {
+                    if (curr_page_smi == num_carousel)
+                    {
+                        curr_page_smi = 1;
+                    }
+                    else
+                    {
+                        curr_page_smi++;
+                    }
+                    $('#smi_carousel_op #page_num_op').html(curr_page_smi);
+                }
+            ).hover(
+                function () {
+                     $(this).addClass('over');
+                },
+                function () {
+                    $(this).removeClass('over');
+                }
+            );
+        });
+        -->
+        </script>
+
+    </div>
+    <span class="bottom"><span></span></span>
+</div><!-- smi_carousel -->
+
+    </div><!--  id="smi_main_box" -->
+    
+    
+<div id="photo_browser">
+    <div id="pbxl_body" style="width: 906px;">
+        <div class="right">
+            <div id="pbxl_close_btn"></div>
+        </div>
+        <div class="clear"></div>
+        <div id="pbxl_container">
+                        <div id="pbxl_photo_carousel" style="width: 876px;" >
+                <div id="pbxl_carousel" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 876px;">
+                    <div id="pbxl_left" style="width: 438px;">
+                        <div id="pbxl_left_arrow"></div>
+                    </div>
+                    <div id="pbxl_right" style="width: 438px; left: 438px;">
+                        <div id="pbxl_right_arrow"></div>
+                    </div>
+                    <ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 8760 px; left: -876px;">
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/ZGVkNmZhNWNiYTc4MTdiOGFhMWMzMzE0M2E2YjZlMDW7Vh7fFNrI-Ft8yLGWuVhGaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC81LzA1MmRjYTQ2NzdmYWI5MzFiY2YzZDQyZjU2MmU2ZWE1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/ZTM5OGI5OGNkNmQ5ODBjOGJmZmIzYTJhNzI2YmNkNTNzXAx-oiztAaWZZ3buQqs9aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8zLzIzNWIyZWQ2YjQ0YzBkOTUwZmU1MDJhZGNjM2JhM2E1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/Njg4MWI0Zjc5YzRiZmZlMTcyODYzYmE3MWEwMDgxMzCtOZ1pID64pyAiLstdpq-vaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8xLzIxOWEwYTA3MWVlYjYxYzQ5Yzk3N2VjZjdhMWIyYjA1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/NzhiZmFjNzIyZDFlMzgzYThhNjgxZDA5ZjNlOGE0YmJNHrwmuMUAsGDHGycRdXILaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy81Lzc1MmMwN2U4YWYwN2Q1MjhjMWRiNzU2Mjc0YjlkNmUzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/MDEzZjc3YWJkZmZkZWRhZjg4MTg3ZjcxZDJjMGUzYWFG2SMZw2bzFr0bQ5vt1irCaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy9lLzdlNGJjNWVmMDlhOGUzZWY0ODY4ODE0NWMzMTVjYTU0LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/N2MzYjI5N2NmYTFlNDY1ZmUwYzk2YjI2M2EwYTg2NDTDmmCGBde2k8O8fvbOx0fKaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMS9hLzFhMzY1ZTUzMjhiZDVhMDNkNDk1NTQ1NTlmZWFhZDYzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/ZGRmMDk4ZTE1YTU2NjUxYmYxMDE0NWU5OWUzZmZlZWKmlYxJjyOFDah8dV87XBFAaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi83L2Y3ZTg3ODQzODczNTc2YzQyNzI2ZTdhYzE1ODhmNTg1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/ZjRiMTFkMjAxNmUwNGZkMDAwMjEyZTZhYTFlY2QzZmLvq5BQoyzNioYJsfFsldJQaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwZTQwYjVlMTIyMzRhMjdiNWE3ZWI3YjEzZjExNWNkLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/NzI2YjE1OGRiYzQyMzgzZGRkZWYxM2RlOTI0Njc2NjRoL_pTzPeFePdZTMXWY8YdaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMy85LzM5ZTljMGNiMzJmM2NhMjY0YTdlZGE5ZjNhYWRlMmMxLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/NDA2Y2QwYjdiZTMzOTE0ZWY5YjA4MTE2ZWY1ZDQxMmYYTzPLMFXwNrxVvxG8HDmRaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwMDQ3Y2UxZDI1ZTk3MDJiYjhiZTU5MWQxNTI1ZTYwLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
+                            <img src="https://b.dmlimg.com/ZTcyYmJiMDU1OTgxM2M2YzJlZDIwZjhmMzcyNWIxM2OtHp8gqt3EwmF46A9oIr8VaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOC9mLzhmZWVhYTcxYWJjZWFkMmU4ZmJkMzRkOTJkMTAwYWY4LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                        </li>
+                                        </ul>
+                </div>
+            </div>
+            <div style="clear:both;"></div>
+            <div id="pbxl_caption_container">
+                <div id="pbxl_caption_logo">
+                                          <div id="pbxl_adtech_half_container">
+                         <div id="dfp-halfbanner">
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('dfp-halfbanner');
+        });
+    </script>
+</div>
+
+                      </div>
+                                 </div>
+                <div id="pbxl_captions">
+                    Viewing
+                    <span id="pbxl_current_photo" class="pbxl_photo_text">1</span>
+                    of
+                    <span id="pbxl_total_photos" class="pbxl_photo_text">11</span>
+                    photos<br />
+                    <span id="pb_caption" class="pbxl_photo_text">
+                        Sunningdale, Ballincollig, Co. Cork                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="pbxl_deeplink">
+            <span class="p1 pb_link pb_dummy">&nbsp;</span>
+            <span class="p2 pb_link pb_dummy">&nbsp;</span>
+            <span class="p3 pb_link pb_dummy">&nbsp;</span>
+            <span class="p4 pb_link pb_dummy">&nbsp;</span>
+            <span class="p5 pb_link pb_dummy">&nbsp;</span>
+            <span class="p6 pb_link pb_dummy">&nbsp;</span>
+            <span class="p7 pb_link pb_dummy">&nbsp;</span>
+            <span class="p8 pb_link pb_dummy">&nbsp;</span>
+            <span class="p9 pb_link pb_dummy">&nbsp;</span>
+            <span class="p10 pb_link pb_dummy">&nbsp;</span>
+            <span class="p11 pb_link pb_dummy">&nbsp;</span>
+    </div>
+
+<script type="text/javascript">
+    var pb_media = new Array(
+                    "https://b.dmlimg.com/ZGVkNmZhNWNiYTc4MTdiOGFhMWMzMzE0M2E2YjZlMDW7Vh7fFNrI-Ft8yLGWuVhGaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC81LzA1MmRjYTQ2NzdmYWI5MzFiY2YzZDQyZjU2MmU2ZWE1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/ZTM5OGI5OGNkNmQ5ODBjOGJmZmIzYTJhNzI2YmNkNTNzXAx-oiztAaWZZ3buQqs9aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8zLzIzNWIyZWQ2YjQ0YzBkOTUwZmU1MDJhZGNjM2JhM2E1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/Njg4MWI0Zjc5YzRiZmZlMTcyODYzYmE3MWEwMDgxMzCtOZ1pID64pyAiLstdpq-vaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8xLzIxOWEwYTA3MWVlYjYxYzQ5Yzk3N2VjZjdhMWIyYjA1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/NzhiZmFjNzIyZDFlMzgzYThhNjgxZDA5ZjNlOGE0YmJNHrwmuMUAsGDHGycRdXILaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy81Lzc1MmMwN2U4YWYwN2Q1MjhjMWRiNzU2Mjc0YjlkNmUzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/MDEzZjc3YWJkZmZkZWRhZjg4MTg3ZjcxZDJjMGUzYWFG2SMZw2bzFr0bQ5vt1irCaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy9lLzdlNGJjNWVmMDlhOGUzZWY0ODY4ODE0NWMzMTVjYTU0LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/N2MzYjI5N2NmYTFlNDY1ZmUwYzk2YjI2M2EwYTg2NDTDmmCGBde2k8O8fvbOx0fKaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMS9hLzFhMzY1ZTUzMjhiZDVhMDNkNDk1NTQ1NTlmZWFhZDYzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/ZGRmMDk4ZTE1YTU2NjUxYmYxMDE0NWU5OWUzZmZlZWKmlYxJjyOFDah8dV87XBFAaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi83L2Y3ZTg3ODQzODczNTc2YzQyNzI2ZTdhYzE1ODhmNTg1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/ZjRiMTFkMjAxNmUwNGZkMDAwMjEyZTZhYTFlY2QzZmLvq5BQoyzNioYJsfFsldJQaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwZTQwYjVlMTIyMzRhMjdiNWE3ZWI3YjEzZjExNWNkLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/NzI2YjE1OGRiYzQyMzgzZGRkZWYxM2RlOTI0Njc2NjRoL_pTzPeFePdZTMXWY8YdaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMy85LzM5ZTljMGNiMzJmM2NhMjY0YTdlZGE5ZjNhYWRlMmMxLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/NDA2Y2QwYjdiZTMzOTE0ZWY5YjA4MTE2ZWY1ZDQxMmYYTzPLMFXwNrxVvxG8HDmRaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwMDQ3Y2UxZDI1ZTk3MDJiYjhiZTU5MWQxNTI1ZTYwLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/ZTcyYmJiMDU1OTgxM2M2YzJlZDIwZjhmMzcyNWIxM2OtHp8gqt3EwmF46A9oIr8VaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOC9mLzhmZWVhYTcxYWJjZWFkMmU4ZmJkMzRkOTJkMTAwYWY4LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+            );
+
+    var pb_captions = [
+                    "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+            ];
+
+    var pb_page = 1;
+    var pb_campaign = "";
+
+    $(document).ready(function(){
+        setup_images(pb_media, pb_page, pb_campaign);
+                    $("#pbxl_carousel").jCarouselLite({
+                btnPrev: "#pbxl_left",
+                btnNext: "#pbxl_right",
+                scroll: 1,
+                speed: slide_speed,
+                visible: 1,
+                btnGo: [".p1", ".p2", ".p3", ".p4", ".p5", ".p6", ".p7", ".p8", ".p9", ".p10", ".p11"]
+                , afterEnd: function(animatingElement){
+                    $(animatingElement)
+                        .find("img[data-original]")
+                        .trigger("pre-load");
+                    $(animatingElement)
+                        .siblings(".pbxl_carousel_item")
+                        .find("img[data-original]")
+                        .trigger("pre-load");
+                }
+            });
+        
+        // Open Photo browser event
+            });
+
+    var pbWidth = 906;
+    var adConfig = {"refreshInterval" : 4, "address": "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"};
+</script>
+<script type="text/javascript" src="https://c1.dmstatic.com/1005/jscript/daftie/photobrowser_xl.js"></script>
+            <div id="footer_top">
+                <span><span></span></span>
+                <ul>
+                    <li id="first_link">
+                        <a href="/">Rent</a>
+                    </li>
+                    <li>
+                        <a href="/rooms-to-rent/">Share</a>
+                    </li>
+                    <li>
+                        <a href="/holiday-homes/">Holiday Homes</a>
+                    </li>
+                    <li>
+                        <a href="/short-lets/">Short Lets</a>
+                    </li>
+                    <li>
+                        <a href="/parking-spaces/">Parking</a>
+                    </li>
+                    <li>
+                        <a href="/student-accommodation/">Student Accommodation</a>
+                    </li>
+                    <li>
+                        <a href="/advertise/">Advertise</a>
+                    </li>
+                    <li>
+                        <a href="/about/">About us</a>
+                    </li>
+                    <li>
+                        <a href="/terms/">Terms</a>
+                    </li>
+                    <li>
+                        <a href="/privacy/">Privacy</a>
+                    </li>
+                    <li>
+                        <a title="Cookie consent" href="#" track-label="footer-help-centre" track-value="5" track-click-event onclick="window.CookieConsent.openCookieModal(); return false;">
+                            Cookie Consent
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://mydata.distilledsch.ie/data/request/?platform=rent">Data Requests</a>
+                    </li>
+                    <li>
+                        <a href="/sitemap/">Sitemap</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="footer_bottom">
+                <div id="footer_bottom_left">
+                    <div id="footer_logo"></div>
+                    <p class="footer_logo_copyright">Content Copyright &copy;
+                        Rent.ie 2021.</p>
+                    <p class="clear_left">
+                        Our aim is to provide the fastest, easiest-to-use and
+                        most up-to-date rental website in the marketplace. If
+                        you have any suggestions on how we can improve our service,
+                        please <a href="/contact/">contact us</a>.
+                    </p>
+                    <p>
+                        If you are a landlord, holiday home owner or estate agent,
+                        please go to the <a href="/advertise/">advertise on
+                        Rent.ie</a> section.
+                    </p>
+                </div>
+                <div id="footer_bottom_right">
+                    <h3>Popular towns and urban areas:</h3>
+    <a href="/rooms-to-rent/dublin/">Share Dublin</a> | <a href="/rooms-to-rent/meath/">Share Meath</a> | <a href="/rooms-to-rent/kildare/">Share Kildare</a> | <a href="/rooms-to-rent/wicklow/">Share Wicklow</a> | <a href="/rooms-to-rent/longford/">Share Longford</a> | <a href="/rooms-to-rent/offaly/">Share Offaly</a> | <a href="/rooms-to-rent/westmeath/">Share Westmeath</a> | <a href="/rooms-to-rent/laois/">Share Laois</a> | <a href="/rooms-to-rent/louth/">Share Louth</a> | <a href="/rooms-to-rent/carlow/">Share Carlow</a> | <a href="/rooms-to-rent/kilkenny/">Share Kilkenny</a> | <a href="/rooms-to-rent/waterford/">Share Waterford</a> | <a href="/rooms-to-rent/wexford/">Share Wexford</a> | <a href="/rooms-to-rent/kerry/">Share Kerry</a> | <a href="/rooms-to-rent/cork/">Share Cork</a> | <a href="/rooms-to-rent/clare/">Share Clare</a> | <a href="/rooms-to-rent/limerick/">Share Limerick</a> | <a href="/rooms-to-rent/tipperary/">Share Tipperary</a> | <a href="/rooms-to-rent/galway/">Share Galway</a> | <a href="/rooms-to-rent/mayo/">Share Mayo</a> | <a href="/rooms-to-rent/roscommon/">Share Roscommon</a> | <a href="/rooms-to-rent/sligo/">Share Sligo</a> | <a href="/rooms-to-rent/leitrim/">Share Leitrim</a> | <a href="/rooms-to-rent/donegal/">Share Donegal</a> | <a href="/rooms-to-rent/cavan/">Share Cavan</a> | <a href="/rooms-to-rent/monaghan/">Share Monaghan</a> | <a href="/rooms-to-rent/antrim/">Share Antrim</a> | <a href="/rooms-to-rent/armagh/">Share Armagh</a> | <a href="/rooms-to-rent/tyrone/">Share Tyrone</a> | <a href="/rooms-to-rent/fermanagh/">Share Fermanagh</a> | <a href="/rooms-to-rent/derry/">Share Derry</a> | <a href="/rooms-to-rent/down/">Share Down</a>    | <a href="https://www.donedeal.ie">DoneDeal.ie</a>
+    | <a href="https://www.adverts.ie">Adverts.ie</a>
+    | <a href="https://www.daft.ie">Daft.ie</a>
+    | <a href="https://www.thejournal.ie">TheJournal.ie</a> |
+                </div>
+            <span><span></span></span>
+            </div>
+            </div>    <!--container-->
+
+<script type="text/javascript" src="https://c1.dmstatic.com/1005/jscript/rentie/jquery.dimensions.min.js"></script>
+<script type="text/javascript" src="https://c1.dmstatic.com/1005/jscript/rentie/terms-and-conditions.js"></script>
+<script>
+var _pool = _pool || [];
+(function(){
+    var s = document.createElement('script');
+    s.type = 'text/javascript'; s.async = true;
+    s.src = '//pool.distilled.ie/js/pool.min.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+})();
+_pool.push(['write', ['_dml']]);
+</script>                </div>
+    </body>
+</html>

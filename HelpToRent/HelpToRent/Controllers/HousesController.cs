@@ -67,7 +67,7 @@ namespace HelpToRent.Controllers
 
         public void ScrapingWeb(String Url)
         {
-           // WebClient webClient = new WebClient();
+            WebClient webClient = new WebClient();
 
             //Event handlers to show progress and to detect that the file is downloaded
             // webClient.DownloadFileCompleted += new AsyncCompletedEventHandler(Completed);
@@ -77,25 +77,26 @@ namespace HelpToRent.Controllers
             //parameter is path to local disk to which you want to save the file.
             //To download file without blocking the main thread we use asynchronous method DownloadFileA­sync.
             //webClient.DownloadFileAsync(new Uri(Url), @"XMLFiles/MyXml.txt");
-          //  String xml = "XMLFiles/xml.txt";
+           String xml = "XMLFiles/xml.txt";
 
-           // webClient.DownloadFile(Url, @xml);
+            webClient.DownloadFile(Url, @xml);
 
-            HtmlWeb web = new HtmlWeb();
-            HtmlDocument doc = web.Load("https://en.wikipedia.org/wiki/Greece");
 
-            //var metascore = doc.DocumentNode.SelectNodes("count(//[@id = 'container'] / div[11] / div / h1)");
-            var navigator = doc.CreateNavigator();
-            var expr = navigator.Compile("//span[@class='toctext']");
-            var count = navigator.Evaluate(expr);
+            HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
+            doc.OptionFixNestedTags = true;
+            doc.Load(xml);
 
-            Console.Write("==========================================>>>>>" + count);
+            var direcInfo = doc.DocumentNode.SelectNodes("//*[@id=\"container\"]/div[11]/div/h1");
+            var priceInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_main_box\"]/div[1]/div[2]/h2");
 
-            /* for (int i = 0; i <= metascore.Count; i++)
-             {
-                 Console.Write("==========================================>>>>>"+metascore[i].InnerText);
 
-             }*/
+            var direction = direcInfo.Select(node => node.InnerText);
+            var price = priceInfo.Select(node => node.InnerText);
+
+
+            Console.Write("==========================================>>>>>" + direction.First());
+                Console.Write("==========================================>>>>>" + price.First());
+
         }
 
         private void ProgressChanged(object sender, DownloadProgressChangedEventArgs e)

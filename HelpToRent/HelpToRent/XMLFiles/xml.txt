@@ -7,7 +7,7 @@
 function tealiumTrackByConfig() {}
             dataLayer = [];
         </script>
-        <title>Sunningdale, Ballincollig, Co. Cork - Shared Accommodation and House Share in Ballincollig, Cork - Rent.ie</title>
+        <title>Blarney Street, Gurranabraher, Co. Cork - Shared Accommodation and House Share in Gurranabraher, Cork - Rent.ie</title>
         <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
         <!-- Google Tag Manager -->
         <script>(function (w, d, s, l, i) {
@@ -31,7 +31,7 @@ dataLayer.push({"consent_functional":false});
 dataLayer.push({"consent_advertising":false});
         </script>
         <meta name="description"
-            content="Sunningdale, Ballincollig, Co. Cork, 1 double bedroom from &amp;euro;100 weekly available for 6 months on Rent.ie." />
+            content="Blarney Street, Gurranabraher, Co. Cork, 1 single bedroom from &amp;euro;170 weekly available for 12 months on Rent.ie." />
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <script>var googletag = googletag || {};
@@ -166,7 +166,7 @@ googletag.placement = googletag.placement || [];
                     <div class="swaf-modal">
             <div class="swaf-shortlink">
                 <label class="swaf-title">Short Link:</label>
-                <input type="text" name="shortcode" class="grey swaf-input" onclick="this.select()" readonly="readonly" value="https://www.rent.ie/35886505"/><br/>
+                <input type="text" name="shortcode" class="grey swaf-input" onclick="this.select()" readonly="readonly" value="https://www.rent.ie/35548033"/><br/>
                 <p>Share this link with your friends</p>
             </div>
 
@@ -174,7 +174,7 @@ googletag.placement = googletag.placement || [];
                 <div class="smi-social-container">
     <span>Share on:</span>
     <ul>
-        <a href="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;t=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share" rel="external">
+        <a href="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fgurranabraher%2Fblarney-street-gurranabraher-cork-5548033%2F&amp;t=Blarney+Street%2C+Gurranabraher%2C+Co.+Cork+-+House+share" rel="external">
             <li class="facebook">
                 <span class="fa-stack">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -182,7 +182,7 @@ googletag.placement = googletag.placement || [];
                 </span>
             </li>
         </a>
-        <a href="https://twitter.com/share?via=daftmedia&amp;url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;text=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share" rel="external">
+        <a href="https://twitter.com/share?via=daftmedia&amp;url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fgurranabraher%2Fblarney-street-gurranabraher-cork-5548033%2F&amp;text=Blarney+Street%2C+Gurranabraher%2C+Co.+Cork+-+House+share" rel="external">
             <li class="twitter">
                 <span class="fa-stack">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -190,7 +190,7 @@ googletag.placement = googletag.placement || [];
                 </span>
             </li>
         </a>
-        <a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F" rel="external">
+        <a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fgurranabraher%2Fblarney-street-gurranabraher-cork-5548033%2F" rel="external">
             <li class="google-plus">
                 <span class="fa-stack">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -198,7 +198,7 @@ googletag.placement = googletag.placement || [];
                 </span>
             </li>
         </a>
-        <a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;description=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share" rel="external">
+        <a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fgurranabraher%2Fblarney-street-gurranabraher-cork-5548033%2F&amp;description=Blarney+Street%2C+Gurranabraher%2C+Co.+Cork+-+House+share" rel="external">
             <li class="pinterest">
                 <span class="fa-stack">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -206,7 +206,7 @@ googletag.placement = googletag.placement || [];
                 </span>
             </li>
         </a>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fballincollig%2Fsunningdale-ballincollig-cork-5886505%2F&amp;title=Sunningdale%2C+Ballincollig%2C+Co.+Cork+-+House+share&amp;mini=true" rel="external">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.daft.ie%2Fcork%2Fhouse-share%2Fgurranabraher%2Fblarney-street-gurranabraher-cork-5548033%2F&amp;title=Blarney+Street%2C+Gurranabraher%2C+Co.+Cork+-+House+share&amp;mini=true" rel="external">
             <li class="linkedin">
                 <span class="fa-stack">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -332,7 +332,7 @@ googletag.placement = googletag.placement || [];
              />
         </div>
 	<div class=" smi_contact_content smi_content_pop">
-		<strong>To:</strong> Booking Adviser in Hosting Power / hostingpower.ie<br />	<strong>Subject:</strong> available for 6 months in Sunningdale, Ballincollig, Co. Cork <br />
+		<strong>To:</strong> John<br />	<strong>Subject:</strong> available for 1 year in Blarney Street, Gurranabraher, Co. Cork <br />
 	<div class="divider"></div>
 	<table>		
 		<tr>
@@ -366,7 +366,7 @@ googletag.placement = googletag.placement || [];
 			<td class="smi_contact_box_row">
 				<input class='text' id="fcontact_number_pop" type='text' name='contact_number' tabindex="122" />
 				<input id="fsearch_type_pop" type='hidden' name='search_type' value='sharing' />
-				<input id="fad_id_pop" type='hidden' name='ad_id' value='5886505' />
+				<input id="fad_id_pop" type='hidden' name='ad_id' value='5548033' />
 				<input id="fbase_url_pop" type='hidden' name='base_url' value='https://www.rent.ie/' />
 			</td>
 		</tr>
@@ -408,7 +408,7 @@ googletag.placement = googletag.placement || [];
         </div>
         <div id="navbar">
         <span class="top"><span></span></span>
-        <div id="breadcrumbs" class="narrow_crumbs">You are here: <a href="https://www.rent.ie/">home</a> &rsaquo; <a href="https://www.rent.ie/rooms-to-rent/">rooms to rent</a> &rsaquo; <a href="/rooms-to-rent/cork/ballincollig/">search results</a> &rsaquo; <a href="https://www.rent.ie/rooms-to-rent/Sunningdale-Ballincollig-Co-Cork/5886505/" id="last_crumb">Sunningdale, Ballincollig, Co. Cork</a>        </div>
+        <div id="breadcrumbs" class="narrow_crumbs">You are here: <a href="https://www.rent.ie/">home</a> &rsaquo; <a href="https://www.rent.ie/rooms-to-rent/">rooms to rent</a> &rsaquo; <a href="/rooms-to-rent/cork/gurranabraher/">search results</a> &rsaquo; <a href="https://www.rent.ie/rooms-to-rent/Blarney-Street-Gurranabraher-Co-Cork/5548033/" id="last_crumb">Blarney Street, Gurranabraher, Co. Cork</a>        </div>
         <div id="v_spacer"></div>
         <span class="bottom"><span></span></span>
     </div>
@@ -425,7 +425,7 @@ googletag.placement = googletag.placement || [];
 </div><div class="smi_main_top">
     <span><span></span></span>
     <div>
-        <h1>Sunningdale, Ballincollig, Co. Cork</h1>
+        <h1>Blarney Street, Gurranabraher, Co. Cork</h1>
     </div>
 </div>
 
@@ -436,9 +436,9 @@ googletag.placement = googletag.placement || [];
             <div id="main_image">
                 <span class="p1 pb_link">
                     <img
-                        src="https://b.dmlimg.com/MzIyZTkyZDNkYjc2Y2JmZWQ2NTNiNTZhNDFjZDYwNzWtX_npVc4Rt4-dOVtIIx2DaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC81LzA1MmRjYTQ2NzdmYWI5MzFiY2YzZDQyZjU2MmU2ZWE1LmpwZ3x8fHx8fDYwMHg0NTB8fHx8.jpg"
-                        alt="Sunningdale, Ballincollig, Co. Cork"
-                        title="Sunningdale, Ballincollig, Co. Cork"
+                        src="https://b.dmlimg.com/NmYxYjc4YzMzZDE2MTdkNGM3NDhmNjIwNWE5NDZjMjJZYo6PsU8aFwpb9ivzTQLOaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYy8wL2MwZGMyMTdlODFjOGY4ZTNlNDkwNTRmZjRlODEzZjA0LmpwZ3x8fHx8fDYwMHg0NTB8fHx8.jpg"
+                        alt="Blarney Street, Gurranabraher, Co. Cork"
+                        title="Blarney Street, Gurranabraher, Co. Cork"
                         width="400" height="300"
                         />
                 </span>
@@ -446,87 +446,62 @@ googletag.placement = googletag.placement || [];
                 <div id="additional_images" style="width:;">
                         <span class="p2 pb_link">
                     <img class="small_image"
-                         src="https://b.dmlimg.com/YWIzZTI3ZjMwYzFlY2EyZDZlMTY5ZTgyNGRhOGVkMzShiG2zgT6I_v7jsweVnGk7aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8zLzIzNWIyZWQ2YjQ0YzBkOTUwZmU1MDJhZGNjM2JhM2E1LmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
-                         alt="Sunningdale, Ballincollig, Co. Cork - Image 2"
+                         src="https://b.dmlimg.com/ZDM0MWVlNzk4YzFmMDAzNzZhZGMwMWI1YzFhMTdmMWJRzyhEhCCIlZTt2VQ5tm8LaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZC9lL2RlYjUxNzIzNzI0MzQ5Yjk2MDg1YmI3NGQyZmQ0N2MxLmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
+                         alt="Blarney Street, Gurranabraher, Co. Cork - Image 2"
                          width="80"
                          height="80"/>
                 </span>
                                 <span class="p3 pb_link">
                     <img class="small_image"
-                         src="https://b.dmlimg.com/MjdkZmFmY2YyMjI4YjcyYjQzMjk0NDk5NWU3OTVjZDJ8Y-fIXcaeF3W375wWdA11aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8xLzIxOWEwYTA3MWVlYjYxYzQ5Yzk3N2VjZjdhMWIyYjA1LmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
-                         alt="Sunningdale, Ballincollig, Co. Cork - Image 3"
-                         width="80"
-                         height="80"/>
-                </span>
-                                <span class="p4 pb_link">
-                    <img class="small_image"
-                         src="https://b.dmlimg.com/MWE4YThmYTRjMGI2NmIyZjFlN2U4YmExYzY2NWRiYzA-RsJcatJkKfMOX1DDt1o6aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy81Lzc1MmMwN2U4YWYwN2Q1MjhjMWRiNzU2Mjc0YjlkNmUzLmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
-                         alt="Sunningdale, Ballincollig, Co. Cork - Image 4"
-                         width="80"
-                         height="80"/>
-                </span>
-                                <span class="p5 pb_link">
-                    <img class="small_image"
-                         src="https://b.dmlimg.com/Y2YwMzIzMmVlNjQzYzQyNDAzNzljZTBiNGQyMDcxOGa1xOHviYcaiWX4iHrhXVRzaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy9lLzdlNGJjNWVmMDlhOGUzZWY0ODY4ODE0NWMzMTVjYTU0LmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
-                         alt="Sunningdale, Ballincollig, Co. Cork - Image 5"
+                         src="https://b.dmlimg.com/NTM5OWZiZjI0N2JhN2U4NzcyZmY0ZjU3MGNlZTMzMGVExk8fKWIGh8dEK8Lq42RzaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYy8yL2MyNjI5NTY3YzVhODBmNGFhMGFkYmNlNjBlYmMyZWU2LmpwZ3x8fHx8MTAwcXx8fHx8.jpg"
+                         alt="Blarney Street, Gurranabraher, Co. Cork - Image 3"
                          width="80"
                          height="80"/>
                 </span>
                             </div>
                     <br />
                 <span class="p1  larger_photos"
-                title="View all photos for Sunningdale, Ballincollig, Co. Cork">
+                title="View all photos for Blarney Street, Gurranabraher, Co. Cork">
                 See Larger Image &raquo;            </span>
             </div><!-- class="photos" -->
         <div class="text">
-<h2>&euro;100 weekly</h2>Double Bedroom  <strong>&euro;100 weekly</strong> available for 6 months            <br />
+<h2>&euro;170 weekly</h2>Single Bedroom Ensuite  <strong>&euro;170 weekly</strong> available for 1 year            <br />
             <div class="divider"></div>
-<div class="ber-top left">
-    <strong class="ber-title left">Rating:</strong>
-    <img class="ber-top-icon left " src="/i/ber/ber_Exempt.png">
-</div>
-<div class="ber-divider"></div>
-2 people currently occupy the house<br />Looking for <strong>either females or males</strong><br />(House is owner occupied)<br /><br />
+1 person currently occupies the house<br />Looking for <strong>either females or males</strong><br />(House is <strong>not</strong> owner occupied)<br /><br />
                 <table id="smi_contactinfo_top">
                     <tr>
                         <td><strong>Contact:</strong></td>
-                        <td>Booking Adviser</td>
+                        <td>John</td>
                     </tr>
                         <tr>
                         <td><strong>Phone:</strong></td>
                         <td>
-                            No phone provided                        </td>
+                                                             <br />
+                                (<span style="font-style:italic"> </span>)
+                                                        </td>
                     </tr>
                 </table><br/>
 
-            <p>
-                <b>Letting Agent:</b>
-    Hosting Power / hostingpower.ie                <br />
-                    <b>PSR Licence Number:</b> Exempt                <br />
-                </p>
+            </p>
     <button class="rent-ie-button" id="searchreplyform_link" data-tealium="rent-click-contact-advertiser">
         Email Advertiser
     </button>
     
+            <button data-p="IA==" class="rent-ie-button show-number right" data-tealium="rent-click-show-number">
+            Show Number        </button>
     
                     <div class="divider"></div>
-
-                        <h2>Key Features</h2>
-                        <ul>
-    <li>Washing Machine</li></ul>
-<ul>
-<li>Internet</li>                        </ul>
-                    <div id="bottom_links" class="wide">
+                <div id="bottom_links" class="wide">
                     <span id="stf" class="link_item">Share with a Friend
                     </span>
                     <span class="link_item bar">|</span>
                     <span class="link_item">
-                            <a href="/rooms-to-rent/Sunningdale-Ballincollig-Co-Cork/5886505/print/"
+                            <a href="/rooms-to-rent/Blarney-Street-Gurranabraher-Co-Cork/5548033/print/"
                             class="underline">Printable Page</a>
                     </span>
                     <span class="link_item bar">|</span>
-                    <span class="link_item smi functions_text  save  slink id_s_5886505">
-                        <span id="text_s_5886505">
+                    <span class="link_item smi functions_text  save  slink id_s_5548033">
+                        <span id="text_s_5548033">
                             Save This Ad                        </span>
                     </span>
                     <span class="link_item bar">|</span>
@@ -549,10 +524,10 @@ googletag.placement = googletag.placement || [];
             <a class="smi_tab" id="button_map" href="#smi_map" data-tabname="smi_map">Map View</a>
         </li>
         <li class="smi_tab_item">
-            <a id="button_sview" href="https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=51.88287833662062,-8.588345397662636" target="_blank">Street View</a>
+            <a id="button_sview" href="https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=51.9017350935084,-8.484897315502167" target="_blank">Street View</a>
         </li>
         <li class="smi_tab_item">
-            <a id="button_satellite" href="https://www.google.com/maps?t=k&q=loc:51.88287833662062+-8.588345397662636" target="_blank">Satellite View</a>
+            <a id="button_satellite" href="https://www.google.com/maps?t=k&q=loc:51.9017350935084+-8.484897315502167" target="_blank">Satellite View</a>
         </li>
     </ul>
 </div>
@@ -562,8 +537,8 @@ googletag.placement = googletag.placement || [];
     var mapData = {
         apiKey: '91rAQ4WIytC6QimSK1Ty',
         containerId: 'smi_map',
-        latitude: 51.88287833662062,
-        longitude: -8.588345397662636,
+        latitude: 51.9017350935084,
+        longitude: -8.484897315502167,
     };
 </script>
     <div class="smi_details_box smi_details_box_main">
@@ -581,27 +556,14 @@ googletag.placement = googletag.placement || [];
 </div>            <h2>Property Description</h2>
             <p>
                 <strong>Available from:</strong>
-                Monday, 4 October 2021            </p>
-                <p>Hosting Power agency, providing affordable accommodation in Ireland since 2014.<br />
-<br />
-We are proud to advertise this fully furnished and comfortable private room.<br />
-The house is equipped with all modern conveniences and you share it with your welcoming host. It is also ideally located close to public transport and shops.<br />
-<br />
-All bills (electricity, gas, etc.) and WiFi are included in the rent!<br />
-All bedding will be provided too.<br />
-<br />
-HOW TO BOOK THIS ROOM?<br />
-- For the fastest way to book this room, please go to our website<br />
-- Alternatively, please reply to this ad with a detailed self description.<br />
-<br />
-Room Ref: 16308</p>
-<strong>BER Details</strong>
-<br />
-<img src="/i/ber/ber_Exempt.png">
-<br />
-<p id=''  class=''  title='' >Energy Performance Indicator: 0.00 kWh/m2/yr</p>            <p>
+                Monday, 2 August 2021            </p>
+                <p>5 minute walk from the  city, 25 minute walk from Apple Hollyhill. 5minute from tindle.<br />
+ Single room for 1 occupant. Room has a desk, wardrobe, kettle, and fridge. House has a large kitchen. <br />
+170 p week, all bills included.<br />
+4 weeks deposit and 1 weeks rent required.  Very important in replying that you tell something about yourself; how long you intend to stay, what you are doing in cork,  your interests etc .</p>
+            <p>
                 <strong>This property was entered:</strong>
-                18 days ago            </p>
+                48 days ago            </p>
         </div>
 
         <span class="bottom"><span></span></span>
@@ -611,17 +573,14 @@ Room Ref: 16308</p>
         <div class="smi_right_box" id="smi_letting_agent">
             <span class="top"><span></span></span>
             <div class="details">
-                    <h2>Letting Agent</h2>
-                            <p>
-                        Hosting Power / hostingpower.ie<br />Harcourt St,<br />
-Dublin 2                    </p>
+                    <h2>Contact Details</h2>
                             <div id="smi_contactinfo_bottom">
                             <div>Contact Name:</div>
-        Booking Adviser            <br />
-                                <br />
-                        <div>PSR Licence Number:</div>
-                        Exempt                            </div>
-    No phone provided
+        John            <br />
+                            </div>
+            <button data-p="IA==" class="rent-ie-button show-number widebutt" data-tealium="rent-click-show-number-contact">
+            Show Number        </button>
+        
 
             </div>
             <span class="bottom"><span></span></span>
@@ -630,7 +589,7 @@ Dublin 2                    </p>
             <span class="top"><span></span></span>
             <div class="smi_contact_content">
                 <p>
-                    You searched for Sunningdale, Ballincollig, Co. Cork and this page shows the full details of this flat share in Ballincollig. There are , which are for either males or females and the monthly rent is &euro;100 weekly. This ad was entered 2 days ago. You can see other flat shares in Ballincollig on the <a href="/rooms-to-rent/cork/ballincollig/">Rooms to Rent in Ballincollig</a> search page.                </p>
+                    You searched for Blarney Street, Gurranabraher, Co. Cork and this page shows the full details of this flat share in Gurranabraher. There are , which are for either males or females and the monthly rent is &euro;170 weekly. This ad was entered today. You can see other flat shares in Gurranabraher on the <a href="/rooms-to-rent/cork/gurranabraher/">Rooms to Rent in Gurranabraher</a> search page.                </p>
             </div>
             <span class="bottom"><span></span></span>
         </div>
@@ -646,7 +605,7 @@ Dublin 2                    </p>
              />
         </div>
 	<div class=" smi_contact_content smi_content">
-	<h2>Contact Letting Agent</h2>	<strong>To:</strong> Booking Adviser in Hosting Power / hostingpower.ie<br />	<strong>Subject:</strong> available for 6 months in Sunningdale, Ballincollig, Co. Cork <br />
+	<h2>Contact Advertiser</h2>	<strong>To:</strong> John<br />	<strong>Subject:</strong> available for 1 year in Blarney Street, Gurranabraher, Co. Cork <br />
 	<div class="divider"></div>
 	<table>		
 		<tr>
@@ -680,7 +639,7 @@ Dublin 2                    </p>
 			<td class="smi_contact_box_row">
 				<input class='text' id="fcontact_number" type='text' name='contact_number' tabindex="22" />
 				<input id="fsearch_type" type='hidden' name='search_type' value='sharing' />
-				<input id="fad_id" type='hidden' name='ad_id' value='5886505' />
+				<input id="fad_id" type='hidden' name='ad_id' value='5548033' />
 				<input id="fbase_url" type='hidden' name='base_url' value='https://www.rent.ie/' />
 			</td>
 		</tr>
@@ -718,174 +677,7 @@ Dublin 2                    </p>
 </div>
         </div>
 
-    <div id="smi_carousel_op">
-    <span class="top"><span></span></span>
-    <div id="smi_carousel_op_inner">
-        <h2>Other properties in this area</h2>
-
-        <div id="page">
-            Page <span id="page_num_op">1</span> of
-            2        </div>
-
-        <div style="clear: both;"></div>
-
-        <div id="previous_op"></div>
-        <div id="next_op"></div>
-            <div id="carousel_other_properties">
-            <ul>
-                <li class="otherproperties_carousel_item">
-                    <a href="https://www.rent.ie/rooms-to-rent/Classis-Lake-Ballincollig-Co-Cork/5886507/" class="no_line">
-                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
-                            data-original="https://b.dmlimg.com/OGYyMzU3ZDhiNGVmZGRhYmQ4OGI5N2E1NTZiOTNhMGZUI8Wh5krOEoBqNVz0upwraHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYS82L2E2NjY4M2YyMmJjYjZlZDU0NjQ2NTRiZTVmYTNlZmZhLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
-                            alt="Ballincollig, Cork"
-                            id="smi_carousel_img_1"
-                            width = "108"
-                            height = "108"
-                        />
-                    </a>
-                    <a href="https://www.rent.ie/rooms-to-rent/Classis-Lake-Ballincollig-Co-Cork/5886507/">Ballincollig, Cork</a>
-                    <br />
-                    &euro;110 Weekly                </li>
-                    <li class="otherproperties_carousel_item">
-                    <a href="https://www.rent.ie/rooms-to-rent/Wyndham-Downs-Ballincollig-Co-Cork/5756088/" class="no_line">
-                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
-                            data-original="https://b.dmlimg.com/ZjlkOWEzYTNmMzk1Y2MxYzU1NTU0MjNjMDAzYTFkNzP1PmHDxsXO4Knd8nPmT55faHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNC85LzQ5NzM5NDY4MDFlNTJhZGRiZDNjMzBkOTI4YmIzYmE1LmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
-                            alt="Ballincollig, Cork"
-                            id="smi_carousel_img_2"
-                            width = "108"
-                            height = "108"
-                        />
-                    </a>
-                    <a href="https://www.rent.ie/rooms-to-rent/Wyndham-Downs-Ballincollig-Co-Cork/5756088/">Ballincollig, Cork</a>
-                    <br />
-                    &euro;110 Weekly                </li>
-                    <li class="otherproperties_carousel_item">
-                    <a href="https://www.rent.ie/rooms-to-rent/32-The-Drive-An-Caislean-Balincollig-Ballincollig-Co-Cork/6057487/" class="no_line">
-                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
-                            data-original="https://b.dmlimg.com/YTFlZjIzYzQ0NzhlZDA4YzNkOWQ1MmZmZWJlY2NjNTG18f7X6M2yeeluqxO9T6SWaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNC81LzQ1YzkzMWY0YTQwYThhZWQxOTViOTQ2NzEyZDA0NzgwLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
-                            alt="Ballincollig, Cork"
-                            id="smi_carousel_img_3"
-                            width = "108"
-                            height = "108"
-                        />
-                    </a>
-                    <a href="https://www.rent.ie/rooms-to-rent/32-The-Drive-An-Caislean-Balincollig-Ballincollig-Co-Cork/6057487/">Ballincollig, Cork</a>
-                    <br />
-                    &euro;450 Monthly                </li>
-                    <li class="otherproperties_carousel_item">
-                    <a href="https://www.rent.ie/rooms-to-rent/Prospect-Lawn-Ballincollig-Co-Cork/5706893/" class="no_line">
-                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
-                            data-original="https://b.dmlimg.com/NGYyNjNmNWU5YjQ0ZTcyNjkwNjI2MjRjZmY5YWMzY2aP2tEgSmi1ZoqKtywwvcFIaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZC9hL2RhZjZiOTVkNDhmNDg3Y2Y2M2JjMjZjZmFiZmQ5ZWVlLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
-                            alt="Ballincollig, Cork"
-                            id="smi_carousel_img_4"
-                            width = "108"
-                            height = "108"
-                        />
-                    </a>
-                    <a href="https://www.rent.ie/rooms-to-rent/Prospect-Lawn-Ballincollig-Co-Cork/5706893/">Ballincollig, Cork</a>
-                    <br />
-                    &euro;100 Weekly                </li>
-                    <li class="otherproperties_carousel_item">
-                    <a href="https://www.rent.ie/rooms-to-rent/98-The-Cloisters-Ballincollig-Co-Cork/6007653/" class="no_line">
-                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
-                            data-original="https://b.dmlimg.com/OTcwZjk0YjRjNmRmMjliZmQ4OWE2YWMxZDM4NjQzNjVJQlcCXXfGFjjXXQydSL-aaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi9jL2ZjZDVmYjNkNDVlYmMyN2Q0NzU1OTFmNTg2NGMzOWRjLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
-                            alt="Ballincollig, Cork"
-                            id="smi_carousel_img_5"
-                            width = "108"
-                            height = "108"
-                        />
-                    </a>
-                    <a href="https://www.rent.ie/rooms-to-rent/98-The-Cloisters-Ballincollig-Co-Cork/6007653/">Ballincollig, Cork</a>
-                    <br />
-                    &euro;430 Monthly                </li>
-                    <li class="otherproperties_carousel_item">
-                    <a href="https://www.rent.ie/rooms-to-rent/Castle-Road-Ballincollig-Co-Cork/5569620/" class="no_line">
-                        <img src="https://c1.dmstatic.com/1005/i/fronts/rentie/no_image_sq.gif" class="lazy"
-                            data-original="https://b.dmlimg.com/MTRmMDZmMDEzZTE0YzdjZDkwYjI5YmFhMWE3ZTdjNWQ6xvqVfH_O18xOlmseIJS8aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNi83LzY3MGNlNWIxNTA2ZjZkYTBiZjlmYzExOWJjOWIwNmMyLmpwZ3x8fHx8fHxodHRwczovL3d3dy5kYWZ0LmllL2kvd2F0ZXJtYXJrX3JlbnRpZS5wbmd8fHw=.jpg"
-                            alt="Ballincollig, Cork"
-                            id="smi_carousel_img_6"
-                            width = "108"
-                            height = "108"
-                        />
-                    </a>
-                    <a href="https://www.rent.ie/rooms-to-rent/Castle-Road-Ballincollig-Co-Cork/5569620/">Ballincollig, Cork</a>
-                    <br />
-                    &euro;100 Weekly                </li>
-                    <li>&nbsp;</li>
-                    <li>&nbsp;</li>
-                    <li>&nbsp;</li>
-                    <li>&nbsp;</li>
-                </ul>
-        </div>
-
-        <script type="text/javascript">
-        <!--
-        $(document).ready(function() {
-            if($("#carousel_other_properties").length) {
-                $("#carousel_other_properties").jCarouselLite({
-                    btnPrev: "#previous_op",
-                    btnNext: "#next_op",
-                    scroll: 5,
-                    speed: 1000,
-                    visible: 5,
-                    afterEnd: function(animatingElement) {
-                        $("#carousel_other_properties img[data-original].lazy").each(function() {
-                            var orig = $(this).attr('data-original');
-                            $(this).attr('src', orig);
-                        });
-                    }
-                });
-            }
-            var curr_page_smi = 1;
-            var num_carousel = 2;
-            $('#previous_op').click(
-                function() {
-                    if (curr_page_smi == 1)
-                    {
-                        curr_page_smi = num_carousel;
-                    }
-                    else
-                    {
-                        curr_page_smi = curr_page_smi - 1;
-                    }
-                    $('#smi_carousel_op #page_num_op').html(curr_page_smi);
-                }
-            ).hover(
-                function () {
-                    $(this).addClass('over');
-                },
-                function () {
-                    $(this).removeClass('over');
-                }
-            );
-            $('#next_op').click(
-                function() {
-                    if (curr_page_smi == num_carousel)
-                    {
-                        curr_page_smi = 1;
-                    }
-                    else
-                    {
-                        curr_page_smi++;
-                    }
-                    $('#smi_carousel_op #page_num_op').html(curr_page_smi);
-                }
-            ).hover(
-                function () {
-                     $(this).addClass('over');
-                },
-                function () {
-                    $(this).removeClass('over');
-                }
-            );
-        });
-        -->
-        </script>
-
-    </div>
-    <span class="bottom"><span></span></span>
-</div><!-- smi_carousel -->
-
+    
     </div><!--  id="smi_main_box" -->
     
     
@@ -904,39 +696,15 @@ Dublin 2                    </p>
                     <div id="pbxl_right" style="width: 438px; left: 438px;">
                         <div id="pbxl_right_arrow"></div>
                     </div>
-                    <ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 8760 px; left: -876px;">
+                    <ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 1752 px; left: -876px;">
                                             <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/ZGVkNmZhNWNiYTc4MTdiOGFhMWMzMzE0M2E2YjZlMDW7Vh7fFNrI-Ft8yLGWuVhGaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC81LzA1MmRjYTQ2NzdmYWI5MzFiY2YzZDQyZjU2MmU2ZWE1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                            <img src="https://b.dmlimg.com/M2JjYjE1Y2Y0ZGM1ZGUzOTE4OTExNjBjM2FhMjhlN2S7RHL5qXRERXCbJIwofgP2aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYy8wL2MwZGMyMTdlODFjOGY4ZTNlNDkwNTRmZjRlODEzZjA0LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
                         </li>
                                             <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/ZTM5OGI5OGNkNmQ5ODBjOGJmZmIzYTJhNzI2YmNkNTNzXAx-oiztAaWZZ3buQqs9aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8zLzIzNWIyZWQ2YjQ0YzBkOTUwZmU1MDJhZGNjM2JhM2E1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                            <img src="https://b.dmlimg.com/OTA5ZWQ4ZTg1NzMxYjZiMDQ4MzNkYmQ5M2U0ZTdiYjgr7Ar4gjFmaliFPRE6zeyvaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZC9lL2RlYjUxNzIzNzI0MzQ5Yjk2MDg1YmI3NGQyZmQ0N2MxLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
                         </li>
                                             <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/Njg4MWI0Zjc5YzRiZmZlMTcyODYzYmE3MWEwMDgxMzCtOZ1pID64pyAiLstdpq-vaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8xLzIxOWEwYTA3MWVlYjYxYzQ5Yzk3N2VjZjdhMWIyYjA1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/NzhiZmFjNzIyZDFlMzgzYThhNjgxZDA5ZjNlOGE0YmJNHrwmuMUAsGDHGycRdXILaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy81Lzc1MmMwN2U4YWYwN2Q1MjhjMWRiNzU2Mjc0YjlkNmUzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/MDEzZjc3YWJkZmZkZWRhZjg4MTg3ZjcxZDJjMGUzYWFG2SMZw2bzFr0bQ5vt1irCaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy9lLzdlNGJjNWVmMDlhOGUzZWY0ODY4ODE0NWMzMTVjYTU0LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/N2MzYjI5N2NmYTFlNDY1ZmUwYzk2YjI2M2EwYTg2NDTDmmCGBde2k8O8fvbOx0fKaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMS9hLzFhMzY1ZTUzMjhiZDVhMDNkNDk1NTQ1NTlmZWFhZDYzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/ZGRmMDk4ZTE1YTU2NjUxYmYxMDE0NWU5OWUzZmZlZWKmlYxJjyOFDah8dV87XBFAaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi83L2Y3ZTg3ODQzODczNTc2YzQyNzI2ZTdhYzE1ODhmNTg1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/ZjRiMTFkMjAxNmUwNGZkMDAwMjEyZTZhYTFlY2QzZmLvq5BQoyzNioYJsfFsldJQaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwZTQwYjVlMTIyMzRhMjdiNWE3ZWI3YjEzZjExNWNkLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/NzI2YjE1OGRiYzQyMzgzZGRkZWYxM2RlOTI0Njc2NjRoL_pTzPeFePdZTMXWY8YdaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMy85LzM5ZTljMGNiMzJmM2NhMjY0YTdlZGE5ZjNhYWRlMmMxLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/NDA2Y2QwYjdiZTMzOTE0ZWY5YjA4MTE2ZWY1ZDQxMmYYTzPLMFXwNrxVvxG8HDmRaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwMDQ3Y2UxZDI1ZTk3MDJiYjhiZTU5MWQxNTI1ZTYwLmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
-                        </li>
-                                            <li class="pbxl_carousel_item" style="width: 876px; height: 525px; overflow: hidden; float: left;">
-                            <img src="https://b.dmlimg.com/ZTcyYmJiMDU1OTgxM2M2YzJlZDIwZjhmMzcyNWIxM2OtHp8gqt3EwmF46A9oIr8VaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOC9mLzhmZWVhYTcxYWJjZWFkMmU4ZmJkMzRkOTJkMTAwYWY4LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
+                            <img src="https://b.dmlimg.com/YTgzZGY4OTZkYTlkMzNmMzNhODc4ZmI0N2U1MGIwNTEFG8urofUDZvxdgewa-tK5aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYy8yL2MyNjI5NTY3YzVhODBmNGFhMGFkYmNlNjBlYmMyZWU2LmpwZ3x8fDcwMGx8fHx8fHx8.jpg" alt="" style="margin-top: 0px; max-width:876px; max-height: 525px;">
                         </li>
                                         </ul>
                 </div>
@@ -959,10 +727,10 @@ Dublin 2                    </p>
                     Viewing
                     <span id="pbxl_current_photo" class="pbxl_photo_text">1</span>
                     of
-                    <span id="pbxl_total_photos" class="pbxl_photo_text">11</span>
+                    <span id="pbxl_total_photos" class="pbxl_photo_text">3</span>
                     photos<br />
                     <span id="pb_caption" class="pbxl_photo_text">
-                        Sunningdale, Ballincollig, Co. Cork                    </span>
+                        Blarney Street, Gurranabraher, Co. Cork                    </span>
                 </div>
             </div>
         </div>
@@ -973,43 +741,19 @@ Dublin 2                    </p>
             <span class="p1 pb_link pb_dummy">&nbsp;</span>
             <span class="p2 pb_link pb_dummy">&nbsp;</span>
             <span class="p3 pb_link pb_dummy">&nbsp;</span>
-            <span class="p4 pb_link pb_dummy">&nbsp;</span>
-            <span class="p5 pb_link pb_dummy">&nbsp;</span>
-            <span class="p6 pb_link pb_dummy">&nbsp;</span>
-            <span class="p7 pb_link pb_dummy">&nbsp;</span>
-            <span class="p8 pb_link pb_dummy">&nbsp;</span>
-            <span class="p9 pb_link pb_dummy">&nbsp;</span>
-            <span class="p10 pb_link pb_dummy">&nbsp;</span>
-            <span class="p11 pb_link pb_dummy">&nbsp;</span>
     </div>
 
 <script type="text/javascript">
     var pb_media = new Array(
-                    "https://b.dmlimg.com/ZGVkNmZhNWNiYTc4MTdiOGFhMWMzMzE0M2E2YjZlMDW7Vh7fFNrI-Ft8yLGWuVhGaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMC81LzA1MmRjYTQ2NzdmYWI5MzFiY2YzZDQyZjU2MmU2ZWE1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/ZTM5OGI5OGNkNmQ5ODBjOGJmZmIzYTJhNzI2YmNkNTNzXAx-oiztAaWZZ3buQqs9aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8zLzIzNWIyZWQ2YjQ0YzBkOTUwZmU1MDJhZGNjM2JhM2E1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/Njg4MWI0Zjc5YzRiZmZlMTcyODYzYmE3MWEwMDgxMzCtOZ1pID64pyAiLstdpq-vaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMi8xLzIxOWEwYTA3MWVlYjYxYzQ5Yzk3N2VjZjdhMWIyYjA1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/NzhiZmFjNzIyZDFlMzgzYThhNjgxZDA5ZjNlOGE0YmJNHrwmuMUAsGDHGycRdXILaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy81Lzc1MmMwN2U4YWYwN2Q1MjhjMWRiNzU2Mjc0YjlkNmUzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/MDEzZjc3YWJkZmZkZWRhZjg4MTg3ZjcxZDJjMGUzYWFG2SMZw2bzFr0bQ5vt1irCaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy9lLzdlNGJjNWVmMDlhOGUzZWY0ODY4ODE0NWMzMTVjYTU0LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/N2MzYjI5N2NmYTFlNDY1ZmUwYzk2YjI2M2EwYTg2NDTDmmCGBde2k8O8fvbOx0fKaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMS9hLzFhMzY1ZTUzMjhiZDVhMDNkNDk1NTQ1NTlmZWFhZDYzLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/ZGRmMDk4ZTE1YTU2NjUxYmYxMDE0NWU5OWUzZmZlZWKmlYxJjyOFDah8dV87XBFAaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZi83L2Y3ZTg3ODQzODczNTc2YzQyNzI2ZTdhYzE1ODhmNTg1LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/ZjRiMTFkMjAxNmUwNGZkMDAwMjEyZTZhYTFlY2QzZmLvq5BQoyzNioYJsfFsldJQaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwZTQwYjVlMTIyMzRhMjdiNWE3ZWI3YjEzZjExNWNkLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/NzI2YjE1OGRiYzQyMzgzZGRkZWYxM2RlOTI0Njc2NjRoL_pTzPeFePdZTMXWY8YdaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMy85LzM5ZTljMGNiMzJmM2NhMjY0YTdlZGE5ZjNhYWRlMmMxLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/NDA2Y2QwYjdiZTMzOTE0ZWY5YjA4MTE2ZWY1ZDQxMmYYTzPLMFXwNrxVvxG8HDmRaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvNy8wLzcwMDQ3Y2UxZDI1ZTk3MDJiYjhiZTU5MWQxNTI1ZTYwLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
-                    , "https://b.dmlimg.com/ZTcyYmJiMDU1OTgxM2M2YzJlZDIwZjhmMzcyNWIxM2OtHp8gqt3EwmF46A9oIr8VaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvOC9mLzhmZWVhYTcxYWJjZWFkMmU4ZmJkMzRkOTJkMTAwYWY4LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    "https://b.dmlimg.com/M2JjYjE1Y2Y0ZGM1ZGUzOTE4OTExNjBjM2FhMjhlN2S7RHL5qXRERXCbJIwofgP2aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYy8wL2MwZGMyMTdlODFjOGY4ZTNlNDkwNTRmZjRlODEzZjA0LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/OTA5ZWQ4ZTg1NzMxYjZiMDQ4MzNkYmQ5M2U0ZTdiYjgr7Ar4gjFmaliFPRE6zeyvaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvZC9lL2RlYjUxNzIzNzI0MzQ5Yjk2MDg1YmI3NGQyZmQ0N2MxLmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
+                    , "https://b.dmlimg.com/YTgzZGY4OTZkYTlkMzNmMzNhODc4ZmI0N2U1MGIwNTEFG8urofUDZvxdgewa-tK5aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvYy8yL2MyNjI5NTY3YzVhODBmNGFhMGFkYmNlNjBlYmMyZWU2LmpwZ3x8fDcwMGx8fHx8fHx8.jpg"
             );
 
     var pb_captions = [
-                    "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
-                    , "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"
+                    "Blarney\x20Street,\x20Gurranabraher,\x20Co.\x20Cork"
+                    , "Blarney\x20Street,\x20Gurranabraher,\x20Co.\x20Cork"
+                    , "Blarney\x20Street,\x20Gurranabraher,\x20Co.\x20Cork"
             ];
 
     var pb_page = 1;
@@ -1023,7 +767,7 @@ Dublin 2                    </p>
                 scroll: 1,
                 speed: slide_speed,
                 visible: 1,
-                btnGo: [".p1", ".p2", ".p3", ".p4", ".p5", ".p6", ".p7", ".p8", ".p9", ".p10", ".p11"]
+                btnGo: [".p1", ".p2", ".p3"]
                 , afterEnd: function(animatingElement){
                     $(animatingElement)
                         .find("img[data-original]")
@@ -1039,7 +783,7 @@ Dublin 2                    </p>
             });
 
     var pbWidth = 906;
-    var adConfig = {"refreshInterval" : 4, "address": "Sunningdale,\x20Ballincollig,\x20Co.\x20Cork"};
+    var adConfig = {"refreshInterval" : 4, "address": "Blarney\x20Street,\x20Gurranabraher,\x20Co.\x20Cork"};
 </script>
 <script type="text/javascript" src="https://c1.dmstatic.com/1005/jscript/daftie/photobrowser_xl.js"></script>
             <div id="footer_top">

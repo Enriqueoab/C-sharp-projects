@@ -17,7 +17,7 @@ namespace HelpToRent.Models
             this.Id = houseId;
         }
 
-        public Bill(bool allBillsIncluded, int houseId)
+        public Bill(int houseId, bool allBillsIncluded)
         {
             this.AllBillsIncluded = allBillsIncluded;
             this.Id = houseId;

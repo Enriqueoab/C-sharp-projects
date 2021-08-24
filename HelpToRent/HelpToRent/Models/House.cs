@@ -13,8 +13,6 @@ namespace HelpToRent.Models
 
         public Direction Directions { get => Directions; set => Directions = value; }
 
-
-
         public String Price { get; set; }
         public Bill Bill { get => Bill; set => Bill = value; }
 

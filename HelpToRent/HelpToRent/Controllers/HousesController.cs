@@ -98,8 +98,6 @@ namespace HelpToRent.Controllers
 
             var direction = direcInfo.Select(node => node.InnerText);
             
-            //int houseId, string street, string town, string city
-  
             var price = priceInfo.Select(node => node.InnerText);
             var avalaibility = avalaiInfo.Select(node => node.InnerText);
             var contractPeriod = periodiInfo.Select(node => node.InnerText);
@@ -107,7 +105,19 @@ namespace HelpToRent.Controllers
                 var contactNumber = contNumber.Select(node => node.InnerText);
             var bill = billInfo.Select(node => node.InnerText);
 
+            String st = (String)direction.First();
+            string[] splitDirection =st.Split(", ");
 
+            //int houseId, string street, string town, string city
+            Direction directionObj = new Direction(1, splitDirection[0],
+                                                     splitDirection[1],
+                                                     splitDirection[2]);
+            //int houseId, bool allBillsIncluded, string billComment
+            Bill billObj = new Bill();
+
+            Console.Write("=================Stree(Id)=========================>>>>>" + directionObj.Id);
+            Console.Write("=================Street(Street)=========================>>>>>" + directionObj.Street);
+            Console.Write("=================Street(Town)=========================>>>>>" + directionObj.Town);
 
             Console.Write("==========================================>>>>>" + price.First());
             Console.Write("==========================================>>>>>" + avalaibility.First());

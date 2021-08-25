@@ -85,7 +85,6 @@ namespace HelpToRent.Controllers
             HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             doc.OptionFixNestedTags = true;
             doc.Load(xml);
-            
 
             var direcInfo = doc.DocumentNode.SelectNodes("//*[@id=\"container\"]/div[11]/div/h1");
             var priceInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_main_box\"]/div[1]/div[2]/h2");
@@ -94,8 +93,8 @@ namespace HelpToRent.Controllers
                 var contName = doc.DocumentNode.SelectNodes("//*[@id=\"smi_contactinfo_top\"]/tr[1]/td[2]");
                 var contNumber = doc.DocumentNode.SelectNodes("//*[@id=\"smi_contactinfo_top\"]/tr[2]/td[2]/text()[1]");
             
-            var billInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_description\"]/ p[1]/text()");
-
+            var billInfo = doc.DocumentNode.SelectNodes("//*[@id=\"smi_description\"]/p[2]");
+                                                    ////*[@id="smi_main_box"]/div[1]/div[2]/p
             var direction = direcInfo.Select(node => node.InnerText);
             
             var price = priceInfo.Select(node => node.InnerText);
@@ -105,26 +104,58 @@ namespace HelpToRent.Controllers
                 var contactNumber = contNumber.Select(node => node.InnerText);
             var bill = billInfo.Select(node => node.InnerText);
 
-            String st = (String)direction.First();
-            string[] splitDirection =st.Split(", ");
 
+
+            //Creating the direction obj and exceptions control
             //int houseId, string street, string town, string city
+
+            String st = (String)direction.First();
+            //Split direction
+            string[] splitDirection = st.Split(", ");
             Direction directionObj = new Direction(1, splitDirection[0],
                                                      splitDirection[1],
                                                      splitDirection[2]);
             //int houseId, bool allBillsIncluded, string billComment
-            Bill billObj = new Bill();
+            bill = bill.Where(s => !string.IsNullOrWhiteSpace(s)).ToList();
+            //Look for the words that will tell if they are included or not
+            String billComment = (String)bill.First();
+            string[] splitBillInformation = billComment.Split(" ");
+            Bill billObj = null;
+            for (int i = 0; i < splitBillInformation.Length; i++)
+            {
+                if (splitBillInformation[i] == "bill" || splitBillInformation[i] == "bills")
+                {
+                    if (splitBillInformation[i+1] == "not")
+                    {
+                        billObj = new Bill(1, false, "Bills are not incluide 'bill not' in the description");
+                        break;
+                    }else
+                    {
+                        billObj = new Bill(1, true, "Bills are probably incluide");
+                        break;
+                    }
+                }
+            }
+            if (billObj == null)
+            {
+                billObj = new Bill(1, false, "Nothing in the description");
 
-            Console.Write("=================Stree(Id)=========================>>>>>" + directionObj.Id);
-            Console.Write("=================Street(Street)=========================>>>>>" + directionObj.Street);
-            Console.Write("=================Street(Town)=========================>>>>>" + directionObj.Town);
+            }
 
-            Console.Write("==========================================>>>>>" + price.First());
-            Console.Write("==========================================>>>>>" + avalaibility.First());
-            Console.Write("==========================================>>>>>" + contractPeriod.First());
-            Console.Write("==========================================>>>>>" + contactName.First());
-            Console.Write("==========================================>>>>>" + contactNumber.First());
-            Console.Write("==========================================>>>>>" + bill.First());
+                Console.WriteLine("=================BILL COMMENT=========================>>>>>" + billObj.BillComment);
+
+            
+
+            Console.WriteLine("=================Stree(Id)=========================>>>>>" + directionObj.Id);
+            Console.WriteLine("=================Street(Street)=========================>>>>>" + directionObj.Street);
+            Console.WriteLine("=================Street(Town)=========================>>>>>" + directionObj.Town);
+
+            Console.WriteLine("==========================================>>>>>" + price.First());
+            Console.WriteLine("==========================================>>>>>" + avalaibility.First());
+            Console.WriteLine("==========================================>>>>>" + contractPeriod.First());
+            Console.WriteLine("==========================================>>>>>" + contactName.First());
+            Console.WriteLine("==========================================>>>>>" + contactNumber.First());
+            Console.WriteLine("==========================================>>>>>" + bill.Count());
 
         }
 
